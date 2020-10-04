@@ -1,0 +1,63 @@
+= Answer the random trivia based on Bridget's interests = 10 Minutes; 10 Points
+
+
+This is Bridget for reference:
+link:../october9/picturetime/mebruh.jpeg[]
+
+==== Tennis
+
+1) What is the right side of the court called?
+
+- the Duece
+
+2) What animal interstines are used to make natural gut strings?
+
+- cows and sheep
+
+3) What is it called when the ball hits the net on a serve?
+
+- a Let
+
+==== Caddy & Golf
+
+4) What is the maximum number of clubs you are allowed to have in a golf bag (which is far too many for a caddy to have to caddy)?
+
+- 14
+
+5) What is the term called when a golfer uses their driver again after already using it to hit off the tee?
+
+- Driver off the deck
+
+==== Band
+
+6) Find the odd one out: Flank, Lyre, Mark Time, Backwards Harch
+
+- Lyre 
+
+7) What is the name of the instrument that is in the man's right hand (who oddly looks like my father in his youth but, alas, is simply a man from google)
+
+image:../october9/picturetime/bobpockettrumpet.jpeg[]
+
+8) How long can a human person go without drinking water (not that they ever should)
+
+    ===a) three weeks
+    b) 14 days
+    c) 4 days
+    d) 48 hours
+
+==== Music
+
+9) Which scale is the only major scale that does not use sharps of flats? 
+
+    a) F
+    ===b) C
+    c) B
+    d) A
+
+10) What does the term 'pino' mean when referring to dynamics in a song?
+
+- quiet or soft
+
+
+
+link:../index.html[Click here to return to the main site]

@@ -1,0 +1,47 @@
+= Teams
+
+[%autowidth,stripes=even,]
+|===
+| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
+
+
+|Jeannie
+|Haylie
+|Mary
+|Tim
+|
+
+|Adam
+|Mitch
+|Patty
+|Ann
+|
+
+|Brandon
+|
+|Linda
+|Maria
+|
+
+|
+|
+|Terry
+|
+|
+
+|Noah
+|
+|
+|Vickie
+|
+
+|Becky
+|
+|
+|Hayes
+|
+|===
+
+'''
+
+link:../index.html[Click here to return to the main site]
