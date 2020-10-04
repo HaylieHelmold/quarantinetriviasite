@@ -19,13 +19,13 @@
 
 === Guess the person's chin!
 
-3. image:../october9/picturetime/jenaniston.JPG[]
+3. image:../../picturetime/jenaniston.jpeg[]
 
-4. image:../october9/picturetime/therock.jpeg[]
+4. image:../../picturetime/therock.jpeg[]
 
-5. image:../october9/picturetime/greaseman.jpeg[]
+5. image:../../picturetime/greaseman.jpeg[]
 
-6. image:../october9/picturetime/gma.jpeg[]
+6. image:../../picturetime/gma.jpeg[]
 
 ===  A popular game played is called Incoherant. Each question has a combination of words that look like nonsense but when recited out loud sound like a hidden phrase. Try and sound 'em out. Example
 

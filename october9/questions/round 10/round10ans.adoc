@@ -45,7 +45,7 @@ Bonus: What is that answer in radians?
 EXTRA CREDIT
 The following is an equation meant to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way Galaxy. Who was the person who developed this equation? (5 points)
 
-image:../october9/picturetime/drakeequation.jpg[]
+image:../../picturetime/drakeequation.jpg[]
 
 - Dr. Frank Drake
 

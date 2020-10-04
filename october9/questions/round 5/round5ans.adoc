@@ -32,12 +32,12 @@
 
 7) Connect the tribe to the region they originate from:
 
-image:../october9/picturetime/map.jpg[]
+image:../../picturetime/map.jpg[]
 
  1) Eskimo & Cree
- b) Nez Perce
- c) Sioux & Cheyenne
- d) Iriquois, Mohawk, Algonquin & Miami
- e) Cherokee & Seminole
+ 2) Nez Perce
+ 3) Sioux & Cheyenne
+ 4) Iriquois, Mohawk, Algonquin & Miami
+ 5) Cherokee & Seminole
 
 link:../index.html[Click here to return to the main site]

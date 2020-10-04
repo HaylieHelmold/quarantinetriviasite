@@ -14,7 +14,7 @@
 
 7) Connect the tribe to the region they originate from:
 
-image:../october9/picturetime/map2.JPG[]
+image:../../picturetime/map2.JPG[]
 
  a) Nez Perce
  b) Sioux & Cheyenne

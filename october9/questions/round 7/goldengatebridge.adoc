@@ -25,7 +25,7 @@ image:../../picturetime/mebruh.jpeg[]
 
 7) What is the name of the instrument that is in the man's right hand (who oddly looks like my father in his youth but, alas, is simply a man from google)
 
-image:../october9/picturetime/bobpockettrumpet.jpeg[]
+image:../../picturetime/bobpockettrumpet.jpeg[]
 
 8) How long can a human person go without drinking water (not that they ever should)
 

@@ -1,9 +1,9 @@
 = Answer these questions about Hayes' Interests = 10 Minutes; 13 Points
 
 
-=== This is Hayes for reference, he is the devil:
+=== This is Hayes for reference, he is the devil with the finger guns:
 
- image:../october9/picturetime/fingergunhayes.jpeg[]
+image:../../picturetime/fingergunhayes.jpeg[]
 
 1) Which of the following games are classified as "indie" games? (three correct answers)
 
@@ -33,7 +33,7 @@
 
 6) The following image shows six of the bounty hunters hired to find the Millennium Falcon in Star Wars: The Empire Strikes Back. name each character (1 point for each correct answer. Answers do not need to be in sequential order)
 
-image:../october9/picturetime/bountyhunters.jpeg[]
+image:../../picturetime/bountyhunters.jpeg[]
 
 - Boba Fett, IG-88, Dengar, 4-Lom, Zuckuss
 
