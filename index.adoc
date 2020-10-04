@@ -1,35 +1,37 @@
-= Quarantine Trivia Week 10
-:basepath: July25/questions/round_
+= Trivia Week I Don't Even Know or Care tbh
 
-== Your Hosts: Mitch, Catherine and Haylie
+=== Your Lovely Hosts: Betsy, Hayes & Bridget
+here they are: 
 
-=== Possible Total Points: 130
+image:../october9/picturetime/chaos.JPG[]
 
-=== Teams link:./teams/july25teams.html[Here]
+=== Possible Points (107 so far)
 
-=== Categories:
+== Teams link:../teams/october9teams.html[Here]
 
+=== Categories
 
-1. link:{basepath}1/tocatchathief.html[To Catch a Thief]
-    a. link:{basepath}1/tocatchathief_Answers.html[answers]
-2. link:{basepath}2/CouchPotato.html[Couch Potato]
-    a. link:{basepath}2/CouchPotato_Answers.html[answers]
-3. link:{basepath}3/Englishisthegreatest.html[English is the Greatest Language]
-    a. link:{basepath}3/Englishisthegreatest_Answers.html[answers]
-4. link:{basepath}4/canyouhearmenow.html[Can you hear me now?]
-    a. link:{basepath}4/canyouhearmenow_Answers.html[answers]
-5. link:{basepath}5/Whereami.html[Where Am I]
-    a. link:{basepath}5/Whereami_Answers.html[answers]
-6. link:{basepath}6/jinglejangle.html[Jingle Jangle]
-    a. link:{basepath}6/jinglejangle_Answers.html[answers]
-7. link:{basepath}7/SCIENCE.html[She blinded me with Science]
-    a. link:{basepath}7/SCIENCE_Answers.html[answers]
-8. link:{basepath}8/disney.html[The Happiest Franchise on Earth]
-    a. link:{basepath}8/disney_answers.html[answers]
-9. link:{basepath}9/Whatsinaname.html[Who's That Lady]
-    a. link:{basepath}9/Whatsinaname_Answers.html[answers]
-10. link:{basepath}10/memes.html[The Internet is a fad]
-    a. link:{basepath}10/memes_Answers.html[answers]
+1. It's Still Rock and Roll to Me
+
+2. In a Haze
+
+3. Famous Last Words
+
+4. John Doe
+
+5. Make America Great Again
+
+6. Enjoy!
+
+7. Golden Gate Bridge
+
+8. Betsy
+
+9. Disney
+
+10. Please Excuse My Dear Aunt Sally
+
+11. a sUrPriSe
 
 == Teams & Scores
 
@@ -38,36 +40,36 @@
 | | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
 
 |Round 1
-| 7
-| 4
-| 6
-| 6
-| 5
-| 4
+| 
+| 
+| 
+| 
+| 
+|
 
 |Round 2   
-| 10
-| 14
-| 12
-| 9
-| 10
-| 13
+| 
+| 
+| 
+|
+| 
+| 
 
 | Round 3
-| 17
-| 14
-| 17
-| 17
-| 16
-| 16
+| 
+| 
+| 
+| 
+| 
+| 
 
 |Round 4
-| 14
-| 12
-| 9
-| 12.5
-| 12.5
-| 11
+| 
+| 
+|
+| 
+| 
+| 
 
 |Round 5
 | 7
