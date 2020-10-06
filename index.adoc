@@ -12,25 +12,15 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 === Categories
 
 1. link:{basepath}1/rock.html[It's Still Rock and Roll to Me] (20 mins)
-
 2. link:{basepath}2/inahaze.html[In a Haze] (10 mins)
-
 3. Famous Last Words ()
-
 4. John Doe ()
-
 5. Make America Great Again (15 mins)
-
 6. Enjoy! (15 mins)
-
 7. Golden Gate Bridge (10 mins)
-
 8. Betsy ()
-
 9. Disney ()
-
 10. Please Excuse My Dear Aunt Sally (15 mins)
-
 11. a sUrPriSe (10 mins)
 
 == Teams & Scores
