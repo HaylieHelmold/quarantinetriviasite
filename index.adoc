@@ -1,6 +1,6 @@
 = Trivia Week I Don't Even Know or Care tbh
 
-=== Your Lovely Hosts: Betsy, Hayes & Bridget
+=== Your Lovely Hosts: Betsy, Hayes, Bridget & Rupie
 here they are (feat. Rupie Ramos): 
 
 image:../october9/picturetime/chaosrupie.jpeg[]
@@ -11,9 +11,9 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 
 === Categories
 
-1. It's Still Rock and Roll to Me (20 mins)
+1. link:{basepath}1/itsstillrockandrolltome.html[It's Still Rock and Roll to Me] (20 mins)
 
-2. In a Haze (10 mins)
+2. link:{basepath}2/inahaze.html[In a Haze] (10 mins)
 
 3. Famous Last Words ()
 
