@@ -11,7 +11,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 
 === Categories
 
-1. link:{basepath}1/itsstillrockandrolltome.html[It's Still Rock and Roll to Me] (20 mins)
+1. link:{basepath}1/rock.html[It's Still Rock and Roll to Me] (20 mins)
 
 2. link:{basepath}2/inahaze.html[In a Haze] (10 mins)
 
