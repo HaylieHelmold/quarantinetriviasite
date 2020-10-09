@@ -11,7 +11,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 == Teams
 [%autowidth,stripes=even,]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
+| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 
 
 
 |Billy
@@ -20,11 +20,13 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Tim
 |Rhiannon
 
+
 |Ann
 |Mitch
 |Noah
 |Maria
 |Aaron
+
 
 |Maureen
 |Ashley
@@ -32,11 +34,13 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Salma
 |Angelica
 
+
 |Phil
 |Peyton
 |Bob
 |Mary
 |Nevin
+
 
 
 |Brandon
@@ -46,15 +50,16 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Bella
 
 
+
 |Adam
 |Stacy
 |Peggy
 |Rick
 |Cassidy
 
+
 | Patty
 | Bea & Tricia
-|
 |
 |
 |Nevin's Friends
