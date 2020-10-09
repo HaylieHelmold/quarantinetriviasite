@@ -6,7 +6,7 @@ here they are (feat. Rupie Ramos):
 
 image:../october9/picturetime/chaosrupie.jpeg[]
 
-=== Possible Points (130 so far)
+=== Possible Points = 155
 
 == Teams
 [%autowidth,stripes=even,]
@@ -86,7 +86,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
+| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
 
 |Round 1
 | 
@@ -94,7 +94,6 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 
 | 
 | 
-|
 
 |Round 2   
 | 
@@ -102,10 +101,8 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 
 |
 | 
-| 
 
 | Round 3
-| 
 | 
 | 
 | 
@@ -118,10 +115,8 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |
 | 
 | 
-| 
 
 |Round 5
-| 
 | 
 | 
 | 
@@ -134,10 +129,8 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 
 | 
 | 
-| 
 
 |Round 7
-| 
 | 
 | 
 | 
@@ -150,10 +143,8 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 
 | 
 | 
-| 
 
 |Round 9
-| 
 | 
 | 
 | 
@@ -164,22 +155,10 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 
 | 
 | 
-| 
 |
-| 
-
-
-|Round 11
-| 
-| 
-| 
-| 
 |
-| 
-
 
 |*Final*
-| 
 | 
 | 
 | 
