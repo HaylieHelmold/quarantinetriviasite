@@ -14,51 +14,60 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
 
 
-|Jeannie
+|Billy
 |Haylie
-|Mary
+|Becky
 |Tim
-|
+|Rhiannon
 
-|Angelica
-|Mitch
-|Patty
 |Ann
-|
+|Mitch
+|Noah
+|Maria
+|Aaron
+
+|Maureen
+|Ashley
+|Linda
+|Salma
+|Angelica
+
+|Phil
+|Peyton
+|Bob
+|Mary
+|Nevin
+
 
 |Brandon
-|Rhiannon
-|Linda
-|Maria
-|
-|
-
-
-|Terry
-|Nevin
-|
-|
-|
-
-|Noah
-|
+|Brianna
+|Mike
+|Jeanie
 |Bella
-|
-|
 
-|Becky
-|
-|
+
+|Adam
+|Stacy
+|Peggy
+|Rick
 |Cassidy
+
+| Patty
+| Bea & Tricia
 |
+|
+|
+|Nevin's Friends
 |===
+
+*I did not feel like making another row for teams which is the only reason Bea and Tricia are grouped
 
 '''
 
 === Categories
 
 1. Enjoy! (15 mins)
-2. link:{basepath}2/rock.html[It's Still Rock and Roll to Me] (20 mins)
+2. It's Still Rock and Roll (20 mins)
 3. In a Haze (10 mins)
 4. Frankly My Dear, I Don't Give a Damn (10 mins)
 5. Make America Great Again (15 mins)
