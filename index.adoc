@@ -1,27 +1,72 @@
 = Trivia Week I Don't Even Know or Care tbh
+:basepath: october9/questions/round
 
 === Your Lovely Hosts: Betsy, Hayes, Bridget & Rupie
 here they are (feat. Rupie Ramos): 
 
 image:../october9/picturetime/chaosrupie.jpeg[]
 
-=== Possible Points (107 so far)
+=== Possible Points (130 so far)
 
-== Teams link:../teams/october9teams.html[Here]
+== Teams
+[%autowidth,stripes=even,]
+|===
+| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 | Team 6
+
+
+|Jeannie
+|Haylie
+|Mary
+|Tim
+|
+
+|Angelica
+|Mitch
+|Patty
+|Ann
+|
+
+|Brandon
+|Rhiannon
+|Linda
+|Maria
+|
+|
+
+
+|Terry
+|Nevin
+|
+|
+|
+
+|Noah
+|
+|Bella
+|
+|
+
+|Becky
+|
+|
+|Cassidy
+|
+|===
+
+'''
 
 === Categories
 
-1. link:{basepath}1/rock.html[It's Still Rock and Roll to Me] (20 mins)
-2. link:{basepath}2/inahaze.html[In a Haze] (10 mins)
-3. Famous Last Words ()
-4. John Doe ()
+1. Enjoy! (15 mins)
+2. link:{basepath}1/rock.html[It's Still Rock and Roll to Me] (20 mins)
+3. In a Haze (10 mins)
+4. Frankly My Dear, I Don't Give a Damn (10 mins)
 5. Make America Great Again (15 mins)
-6. Enjoy! (15 mins)
-7. Golden Gate Bridge (10 mins)
-8. Betsy ()
-9. Disney ()
-10. Please Excuse My Dear Aunt Sally (15 mins)
-11. a sUrPriSe (10 mins)
+6. Golden Gate Bridge (10 mins)
+7. Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun! (10 mins)
+8. Please Excuse My Dear Aunt Sally (15 mins)
+9. Break a Leg! (10 mins)
+10. a sUrPriSe (10 mins)
 
 == Teams & Scores
 
