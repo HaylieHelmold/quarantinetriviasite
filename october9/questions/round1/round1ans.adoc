@@ -19,19 +19,19 @@
 
 === Guess the person's chin!
 
-3. image:../../picturetime/jenaniston.jpeg[]
+3. image:../../picturetime/jenfull.JPG[]
 
 - Jennifer Aniston
 
-4. image:../../picturetime/therock.jpeg[]
+4. image:../../picturetime/dwaynefull.JPG[]
 
 - Dwayne Johnson
 
-5. image:../../picturetime/greaseman.jpeg[]
+5. image:../../picturetime/johnfull.JPG[]
 
 - John Travolta
 
-6. image:../../picturetime/gma.jpeg[]
+6. image:../../picturetime/gmafull.PNG[]
 
 - Betty Danaher
 
