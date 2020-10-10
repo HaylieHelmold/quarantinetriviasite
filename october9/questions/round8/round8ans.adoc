@@ -28,7 +28,7 @@ Bonus: What is that answer in radians?
 
 5) Solve: 6-2(1+2) x 5 = ?
 
-- 0
+- -24
 
 6) What does this equation help you find A = 1/2(b)(h)
 
