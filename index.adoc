@@ -80,7 +80,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 8. link:{basepath}8/pemdas.html[Please Excuse My Dear Aunt Sally] (15 mins)
 - link:{basepath}8/round8ans.html[answers]
 9. link:{basepath}9/breakaleg.html[Break a Leg!] (10 mins)
-- link:{basepath}9/answer8ans.html[answers]
+- link:{basepath}9/round8ans.html[answers]
 10. link:{basepath}10/anime.html[a sUrPriSe] (10 mins)
 
 
@@ -144,7 +144,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 8
 | 9
 | 6
-| 
+| 8
 
 |Round 9
 | 
