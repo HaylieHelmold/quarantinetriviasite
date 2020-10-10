@@ -69,7 +69,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 - link:{basepath}2/round2ans.html[answers]
 3. link:{basepath}3/inahaze.html[In a Haze] (10 mins)
 - link:{basepath}3/round3ans.html[answers]
-4. Frankly My Dear, I Don't Give a Damn (10 mins)
+4. link:{basepath}4/franklymydear.html[Frankly My Dear, I Don't Give a Damn] (10 mins)
 5. Make America Great Again (10 mins)
 6. Golden Gate Bridge (10 mins)
 7. Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun! (10 mins)
@@ -94,7 +94,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 
 | 5.5
 | 7
-|
+| 5
 | 7
 
 | Round 3
