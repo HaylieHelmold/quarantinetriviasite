@@ -74,7 +74,8 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 5. link:{basepath}5/maga.html[Make America Great Again] (10 mins)
 - link:{basepath}5/round5ans.html[answers]
 6. link:{basepath}6/goldengatebridge.html[Golden Gate Bridge] (10 mins)
-7. Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun! (10 mins)
+- link:{basepath}6/round6ans.html[answers]
+7. link:{basepath}7/seaweed.html[Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun!] (10 mins)
 8. Please Excuse My Dear Aunt Sally (15 mins)
 9. Break a Leg! (10 mins)
 10. a sUrPriSe (10 mins)
@@ -114,11 +115,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 6
 
 |Round 5
-| 
-| 
-| 
-| 
-| 
+| 11
+| 12
+| 10
+| 13
+| 11
 
 |Round 6
 |
@@ -156,11 +157,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |
 
 |*Final*
-| 32.25
-| 26.5
-| 36
-| 34
-| 32
+| 43.25
+| 38.5
+| 46
+| 47
+| 43
 |===
 
 '''
