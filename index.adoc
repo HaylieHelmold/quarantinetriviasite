@@ -71,7 +71,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 - link:{basepath}3/round3ans.html[answers]
 4. link:{basepath}4/franklymydear.html[Frankly My Dear, I Don't Give a Damn] (10 mins)
 - link:{basepath}4/round4ans.html[answers]
-5. link:{basepath}4/round4ans.html[Make America Great Again] (10 mins)
+5. link:{basepath}5/maga.html[Make America Great Again] (10 mins)
 6. Golden Gate Bridge (10 mins)
 7. Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun! (10 mins)
 8. Please Excuse My Dear Aunt Sally (15 mins)
