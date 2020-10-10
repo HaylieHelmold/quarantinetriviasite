@@ -91,7 +91,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 12
 
 |Round 2   
-| 
+| 7.25
 | 5.5
 | 7
 | 5
