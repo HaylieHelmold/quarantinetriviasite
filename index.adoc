@@ -78,7 +78,8 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 7. link:{basepath}7/seaweed.html[Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun!] (10 mins)
 - link:{basepath}7/round7ans.html[answers]
 8. link:{basepath}8/pemdas.html[Please Excuse My Dear Aunt Sally] (15 mins)
-9. Break a Leg! (10 mins)
+- link:{basepath}8/round8ans.html[answers]
+9. link:{basepath}9/breakaleg.html[Break a Leg!] (10 mins)
 10. a sUrPriSe (10 mins)
 
 == Teams & Scores
@@ -123,18 +124,18 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 11
 
 |Round 6
-| 
+| 5
 | 0.5
 | 7
 | 4
 | 7
 
 |Round 7
-| 
-| 
-| 
-| 
-| 
+| 7
+| 4
+| 6
+| 7
+| 2
 
 |Round 8
 | 
@@ -158,11 +159,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |
 
 |*Final*
-| 48.25
-| 40.5
-| 54.5
-| 51
-| 50
+| 55.25
+| 44
+| 60.5
+| 58
+| 52
 |===
 
 '''
