@@ -34,14 +34,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Salma
 |Angelica
 
-
 |Phil
 |Peyton
 |Bob
 |Mary
 |Nevin
-
-
 
 |Brandon
 |Brianna
@@ -49,14 +46,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Jeanie
 |Bella
 
-
-
 |Adam
 |Stacy
 |Peggy
 |Rick
 |Cassidy
-
 
 | Patty & Tricia
 | Bea 
@@ -71,7 +65,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 
 === Categories
 
-1. link:..Enjoy! (10 mins)
+1. link:{basepath}1/enjoy.html[Enjoy!] (10 mins)
 2. It's Still Rock and Roll (15 mins)
 3. In a Haze (10 mins)
 4. Frankly My Dear, I Don't Give a Damn (10 mins)
