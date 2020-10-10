@@ -1,0 +1,169 @@
+//Title of Trivia Week
+= Trivia Week 16 - Spooky Edition 🎃
+
+//define basepath for the folder to find all of your files in
+:basepath: Archive/October24/questions/round
+
+
+//Specify Hosts
+=== Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
+
+//Specify possible points
+=== Possible Points = 100
+
+//Table for Teams
+== Teams
+[%autowidth,stripes=even,]
+|===
+| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 
+
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+
+|
+| 
+|
+|
+|
+|===
+
+'''
+
+//Categories, provide link to the html file for that category followed by a title in brackerts and the time limit in parenthesis
+//Example: 1. link:{basepath}1/enjoy.html[Enjoy!] (10 mins)
+// you can then provide the answers in the same way
+
+=== Categories
+
+1. So you think you can be President
+2. Detail, Details, Details
+3.
+4.
+5.
+6.
+7. Home Field Advantage
+8.
+9.
+10. Halloween
+
+//Table for SCoring
+== Teams & Scores
+
+[%autowidth,stripes=even,]
+|===
+| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
+
+|Round 1
+| 
+| 
+| 
+| 
+| 
+
+|Round 2   
+| 
+| 
+| 
+| 
+| 
+
+| Round 3
+| 
+| 
+| 
+| 
+| 
+
+|Round 4
+| 
+| 
+| 
+| 
+| 
+
+|Round 5
+| 
+| 
+| 
+| 
+| 
+
+|Round 6
+| 
+| 
+| 
+| 
+| 
+
+|Round 7
+| 
+| 
+| 
+| 
+| 
+
+|Round 8
+| 
+| 
+| 
+| 
+| 
+
+|Round 9
+| 
+| 
+| 
+| 
+| 
+
+|Round 10
+| 
+| 
+| 
+| 
+| 
+
+|*Final*
+| 
+| 
+| 
+| 
+| 
+|===
+
+'''
+
