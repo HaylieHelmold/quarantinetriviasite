@@ -67,7 +67,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 
 1. link:{basepath}1/enjoy.html[Enjoy!] (10 mins)
 - link:{basepath}1/round1ans.html[answers]
-2. link:{basepath}2/itsstillrockandrolltome.html[It's Still Rock and Roll] (15 mins)
+2. link:{basepath}2/rock.html[It's Still Rock and Roll] (15 mins)
 3. In a Haze (10 mins)
 4. Frankly My Dear, I Don't Give a Damn (10 mins)
 5. Make America Great Again (10 mins)
