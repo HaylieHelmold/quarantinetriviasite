@@ -1,5 +1,5 @@
 = Trivia Week I Don't Even Know or Care tbh
-:basepath: october9/questions/round
+:basepath: Archive/October9/questions/round
 
 === Your Lovely Hosts: Betsy, Hayes, Bridget & Rupie
 here they are (feat. Rupie Ramos): 
