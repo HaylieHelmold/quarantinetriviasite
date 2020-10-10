@@ -82,6 +82,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 9. link:{basepath}9/breakaleg.html[Break a Leg!] (10 mins)
 - link:{basepath}9/round9ans.html[answers]
 10. link:{basepath}10/anime.html[a sUrPriSe] (10 mins)
+- link:{basepath}10/round10ans.html[anime]
 
 
 == Teams & Scores
@@ -147,11 +148,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 8
 
 |Round 9
-| 
-| 
-| 
-| 
-|
+| 17
+| 2
+| 4
+| 6
+| 3
 
 |Round 10
 | 
@@ -161,11 +162,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |
 
 |*Final*
-| 60.25
-| 53
-| 69.5
-| 64
-| 60
+| 77.25
+| 55
+| 73.5
+| 70
+| 67
 |===
 
 '''
