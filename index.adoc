@@ -20,13 +20,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Tim
 |Rhiannon
 
-
 |Ann
 |Mitch
 |Noah
 |Maria
 |Aaron
-
 
 |Rick
 |Ashley
@@ -68,7 +66,8 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 1. link:{basepath}1/enjoy.html[Enjoy!] (10 mins)
 - link:{basepath}1/round1ans.html[answers]
 2. link:{basepath}2/rock.html[It's Still Rock and Roll] (15 mins)
-3. In a Haze (10 mins)
+- link:{basepath}3/rock.html[answers]
+3. link:{basepath}3/inahaze.html[In a Haze] (10 mins)
 4. Frankly My Dear, I Don't Give a Damn (10 mins)
 5. Make America Great Again (10 mins)
 6. Golden Gate Bridge (10 mins)
@@ -84,11 +83,11 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
 
 |Round 1
-| 
-| 
-| 
-| 
-| 
+| 13
+| 13
+| 12
+| 11
+| 12
 
 |Round 2   
 | 
@@ -119,7 +118,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 | 
 
 |Round 6
-| 
+|
 | 
 | 
 | 
