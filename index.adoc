@@ -28,13 +28,13 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Aaron
 
 
-|Maureen
+|Rick
 |Ashley
 |Linda
 |Salma
 |Angelica
 
-|Phil
+|
 |Peyton
 |Bob
 |Mary
@@ -49,13 +49,13 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 |Adam
 |Stacy
 |Peggy
-|Rick
+|Maureen
 |Cassidy
 
 | Patty & Tricia
 | Bea 
 |
-|
+| Phil
 |Nevin's Friends
 |===
 
@@ -66,6 +66,7 @@ image:../october9/picturetime/chaosrupie.jpeg[]
 === Categories
 
 1. link:{basepath}1/enjoy.html[Enjoy!] (10 mins)
+- link:{basepath}1/round1ans.html[answers]
 2. It's Still Rock and Roll (15 mins)
 3. In a Haze (10 mins)
 4. Frankly My Dear, I Don't Give a Damn (10 mins)
