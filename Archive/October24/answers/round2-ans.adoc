@@ -1,10 +1,8 @@
-== Round 2 Answers
+= Round 2 Answers
 
-Is anyone paying attention?
+== Is anyone paying attention?
 
-1) What are the keys to the left and right og the 'G' key on the keyboard? *F and H*
-
-image:../images/round2-question1-answer.jpg[]
+1) Domestic electrical outlets in America supply how many volts? *120V*
 
 2) What color is the PBS KIDS logo? *Green*
 
