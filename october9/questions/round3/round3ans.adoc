@@ -19,7 +19,7 @@ image:../../picturetime/fingergunhayes.jpeg[]
 
 - Courtesy Clerk
 
-3) In italy, there is a period in the day when everyone goes home, and all of the shops close for a couple hours. Around what time does this occur?
+3) In Italy, there is a period in the day when everyone goes home, and all of the shops close for a couple hours. Around what time does this occur?
 
 - 1:00 PM
 
@@ -37,4 +37,3 @@ image:../../picturetime/bountyhunters.jpeg[]
 
 - Boba Fett, IG-88, Dengar, 4-Lom, Zuckuss
 
-link:../index.html[Click here to return to the main site]

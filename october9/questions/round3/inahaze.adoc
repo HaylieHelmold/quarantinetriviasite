@@ -16,7 +16,7 @@ image:../../picturetime/fingergunhayes.jpeg[]
 
 2) What is the offical job title of a grocery bagger?
 
-3) In italy, there is a period in the day when everyone goes home, and all of the shops close for a couple hours. Around what time does this occur?
+3) In Italy, there is a period in the day when everyone goes home, and all of the shops close for a couple hours. Around what time does this occur?
 
 4) What is the total number of playable characters in Super Smash Bros. Ultimate, not including Minecraft Steve (+/-5)
 
@@ -25,5 +25,3 @@ image:../../picturetime/fingergunhayes.jpeg[]
 6) The following image shows six of the bounty hunters hired to find the Millennium Falcon in Star Wars: The Empire Strikes Back. name each character (1 point for each correct answer. Answers do not need to be in sequential order)
 
 image:../../picturetime/bountyhunters.jpeg[]
-
-link:../index.html[Click here to return to the main site]

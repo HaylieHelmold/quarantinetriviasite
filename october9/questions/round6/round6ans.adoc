@@ -41,9 +41,9 @@ image:../../picturetime/bobpockettrumpet.jpeg[]
 
 8) How long can a human person go without drinking water (not that they ever should)
 
-    ===a) three weeks
+    a) three weeks
     b) 14 days
-    c) 4 days
+    ===c) 3 days
     d) 48 hours
 
 ==== Music
@@ -55,10 +55,7 @@ image:../../picturetime/bobpockettrumpet.jpeg[]
     c) B
     d) A
 
-10) What does the term 'pino' mean when referring to dynamics in a song?
+10) What does the term 'piano' mean when referring to dynamics in a song?
 
 - quiet or soft
 
-
-
-link:../index.html[Click here to return to the main site]

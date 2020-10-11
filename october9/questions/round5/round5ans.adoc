@@ -8,7 +8,7 @@
 - Atlanta Braves (MLB)
 - Golden State Warriors (NBA)
 
-2) There has only been one Native American to WIN and Oscar. Buffy Sainte Marie won best music in 1982 for an original song in what movie? Bonus point for the song title.
+2) There has only been one Native American to WIN an Oscar. Buffy Sainte Marie won best music in 1982 for an original song in what movie? Bonus point for the song title.
 
 - Movie: An Officer and a Gentleman
 - Song: Up Where We Belong
@@ -40,4 +40,3 @@ image:../../picturetime/map.jpg[]
  4) Iriquois, Mohawk, Algonquin & Miami
  5) Cherokee & Seminole
 
-link:../index.html[Click here to return to the main site]

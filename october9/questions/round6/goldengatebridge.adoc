@@ -9,7 +9,7 @@ image:../../picturetime/mebruh.jpeg[]
 
 1) What is the right side of the court called?
 
-2) What animal interstines are used to make natural gut strings?
+2) What animal intestines are used to make natural gut strings?
 
 3) What is it called when the ball hits the net on a serve?
 
@@ -31,7 +31,7 @@ image:../../picturetime/bobpockettrumpet.jpeg[]
 
     a) three weeks
     b) 14 days
-    c) 4 days
+    c) 3 days
     d) 48 hours
 
 ==== Music
@@ -43,8 +43,5 @@ image:../../picturetime/bobpockettrumpet.jpeg[]
     c) B
     d) A
 
-10) What does the term 'pino' mean when referring to dynamics in a song?
+10) What does the term 'piano' mean when referring to dynamics in a song?
 
-
-
-link:../index.html[Click here to return to the main site]

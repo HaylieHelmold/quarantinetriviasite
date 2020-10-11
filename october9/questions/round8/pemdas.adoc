@@ -30,6 +30,3 @@ The following is an equation meant to estimate the number of active, communicati
 
 image:../../picturetime/drakeequation.jpg[]
 
-
-
-link:../index.html[Click here to return to the main site]
