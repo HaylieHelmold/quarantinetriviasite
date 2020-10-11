@@ -2,7 +2,7 @@
 = Trivia Week 16 - Spooky Edition 🎃
 
 //define basepath for the folder to find all of your files in
-:basepath: Archive/October24/questions/round
+:basepath: Archive/October24/questions/
 
 
 //Specify Hosts
@@ -70,7 +70,7 @@
 === Categories
 
 1. So you think you can be President
-2. Detail, Details, Details
+2. Is anyone paying attention?
 3.
 4.
 5.
