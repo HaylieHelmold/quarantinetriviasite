@@ -50,7 +50,3 @@ Example: 🏠(⬆️)🌞 = House of the Rising Sun
 
 14.🦟🙋‍♂️2️⃣➡️🌜 
 
-
-
-
-link:../index.html[Click here to return to the main site]
