@@ -2,21 +2,22 @@
 
 == So, you think you can be President
 
-Possible Points: 15
+Possible Points: 14
 
 Time: 10 min.
 
-1) How many people are in the house of representatives? *435*
+1) How many members are there in the House of Representatives? *435*
 
 2) How many amendments have been added to The Constitution? *27*
 
-3) What year was construction started to build the White House? *1792* Bonus: What year was it complete? *1800*
+3) What year was construction to build the White House complete? (+/- 2 years)
+*1800*
 
 4) How many US Presidents owned slaves at some point in their life? *12*
 
 5) What are the 6 branches of the US Armed Forces, *not* including the National Guard? *Army, Marine Corps, Air Force, Navy, Coast Guard, Space Force*
 
-6) Who is _really_ believed to be the explorer that led the first European expedition to Noth America? *Leif Ericksson*
+6) Who is _really_ believed to be the explorer that led the first European expedition to North America? (over 500 years before Christopher Columbus...) *Leif Ericksson*
 
 7) Who is America named after? *Amerigo Vespucci*
 
