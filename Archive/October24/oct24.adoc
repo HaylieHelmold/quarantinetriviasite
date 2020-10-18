@@ -13,46 +13,40 @@
 | Team 1 | Team 2 |Team 3 | Team 4 | Team 5 
 
 
-|
-|
-|
-|
-|
+| Becky
+| Mary
+| Billy
+| Patty
+| Tim
+
+| Noah
+| Jeannie
+| Ann
+| Katie
+| Terry
+
+| Lee
+| Bob
+| Maria
+| Adam
+| Betsy
+
+| Melanie
+| Linda
+| Peg
+| Brandon
+| Maureen
+
+| Colin
+| Brianna
+| Lisa
+| Mike
+| Phil
 
 |
 |
-|
-|
-|
-
-|
-|
-|
-|
-|
-
-|
-|
-|
-|
-|
-
-|
-|
-|
-|
-|
-
-|
-|
-|
-|
-|
-
-|
-| 
-|
-|
+| Bridget
+| Vickie
 |
 |===
 
@@ -64,11 +58,11 @@
 2. Is anyone paying attention?
 3. Re-runs
 4. Halloween
-5. Anna
-6. Mark
-7. Home Field Ads.. I mean Advantage
+5. Who am I
+6. Home Field Ads.. I mean Advantage
+7. Altered Reality
 8. Mitch
-9. Anna
+9. Dem Bones
 10. Mark
 
 === Scores
@@ -78,14 +72,14 @@
 | | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
 
 |Round 1
-| 
+|
 | 
 | 
 | 
 | 
 
 |Round 2   
-| 
+|
 | 
 | 
 | 
@@ -156,4 +150,8 @@
 |===
 
 '''
+
+=== Tie Breaker:
+
+How many Peanuts comic strips did Charles Shultz write in his lifetime? 
 
