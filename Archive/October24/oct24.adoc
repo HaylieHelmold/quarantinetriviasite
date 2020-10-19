@@ -5,65 +5,59 @@
 
 == Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
 
-=== Possible Points = 65
+=== Possible Points = 85
 
 === Teams
 [%autowidth,stripes=even,]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 
+| Team 1 | Team 2 |Team 3 | Team 4
 
 
 | Becky
 | Mary
-| Billy
 | Patty
 | Tim
 
 | Noah
 | Jeannie
-| Ann
 | Katie
-| Terry
+| Maria
 
 | Lee
 | Bob
-| Maria
 | Adam
-| Betsy
+| 
 
 | Melanie
 | Linda
-| Peg
 | Brandon
-| Maureen
+| Terry
 
 | Colin
 | Brianna
-| Lisa
 | Mike
-| Phil
+| Billy
 
-|
-|
 | Bridget
+| Peg
 | Vickie
-|
+| Ann
 |===
 
 '''
 
 === Categories
 
-1. So you think you can be President
-2. Is anyone paying attention?
-3. Re-runs
-4. Halloween
-5. Who am I
-6. Home Field Ads.. I mean Advantage
+1. So you think you can be President (10)
+2. Is anyone paying attention? (10)
+3. Re-runs (19)
+4. Halloween (10)
+5. Who am I (10)
+6. Home Field Ads.. I mean Advantage (11)
 7. Altered Reality
-8. Mitch
-9. Dem Bones
-10. Mark
+8. Dem Bones
+9. Public Domain (15)
+10. Odd Man Out
 
 === Scores
 
