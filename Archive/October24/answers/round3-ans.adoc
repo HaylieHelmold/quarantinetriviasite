@@ -2,8 +2,9 @@
 
 == Re-Runs
 
-Possible Points: 19
+Possible Points: 16
 
+Time: 10 mins.
 
 1) Arthur
 
@@ -19,28 +20,22 @@ Possible Points: 19
 
 7) American Dad
 
-8) Hannah Montana
+8) How I Met Your Mother
 
-9) How I Met Your Mother
+9) The West Wing
 
-10) The West Wing
+10) Full House
 
-11) Full House
+11) Baywatch
 
-12) Baywatch
+12) The Andy Griffth Show
 
-13) The Andy Griffth Show
+13) Drake and Josh
 
-14) Drake and Josh
+14) Mary Tyler Moore
 
-15) Parenthood
+15) Three's Company
 
-16) Dukes of Hazzard
-
-17) Mary Tyler Moore
-
-18) Three's Company
-
-19) Gilmore Girls
+16) Gilmore Girls
 
 link:../../../index.html[Click here to return to the main site]

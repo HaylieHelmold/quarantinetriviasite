@@ -5,7 +5,7 @@
 
 == Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
 
-=== Possible Points = 95
+=== Possible Points = 92
 
 === Teams
 [%autowidth,stripes=even,]
@@ -50,7 +50,7 @@
 
 1. link:{basepath}round1-questions.html[So you think you can be President] (10)
 2. link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
-3. link:{basepath}round3-questions.html[Re-runs] (19)
+3. link:{basepath}round3-questions.html[Re-runs] (16)
 4. link:{basepath}round4-questions.html[Halloween] (10)
 5. link:{basepath}round5-questions.html[Who am I] (10)
 6. link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (11)

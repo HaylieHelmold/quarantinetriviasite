@@ -1,8 +1,8 @@
 = Re-Runs - Round 3
 
-Possible Points: 19
+Possible Points: 16
 
-Time: 19 min
+Time: 10 min
 
 1) 
 
@@ -34,49 +34,37 @@ audio::../videos/question7.mp3[]
 
 8)
 
-audio::../videos/question8.mp3[]
+audio::../videos/question9.mp3[]
 
 9)
 
-audio::../videos/question9.mp3[]
+audio::../videos/question10.mp3[]
 
 10)
 
-audio::../videos/question10.mp3[]
+audio::../videos/question11.mp3[]
 
 11)
 
-audio::../videos/question11.mp3[]
+audio::../videos/question12.mp3[]
 
 12)
 
-audio::../videos/question12.mp3[]
+audio::../videos/question13.mp3[]
 
 13)
 
-audio::../videos/question13.mp3[]
+audio::../videos/question14.mp3[]
 
 14)
 
-audio::../videos/question14.mp3[]
+audio::../videos/question17.mp3[]
 
 15)
 
-audio::../videos/question15.mp3[]
-
-16)
-
-audio::../videos/question16.mp3[]
-
-17)
-
-audio::../videos/question17.mp3[]
-
-18)
-
 audio::../videos/question18.mp3[]
 
-19)
+16)
 
 audio::../videos/question19.mp3[]
 
