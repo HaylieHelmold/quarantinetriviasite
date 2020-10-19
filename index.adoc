@@ -8,56 +8,56 @@
 === Possible Points = 92
 
 === Teams
-[%autowidth,stripes=even,]
-|===
-| Team 1 | Team 2 |Team 3 | Team 4
+// [%autowidth,stripes=even,]
+// |===
+// | Team 1 | Team 2 |Team 3 | Team 4
 
 
-| Becky
-| Mary
-| Patty
-| Tim
+// | Becky
+// | Mary
+// | Patty
+// | Tim
 
-| Noah
-| Jeannie
-| Katie
-| Maria
+// | Noah
+// | Jeannie
+// | Katie
+// | Maria
 
-| Lee
-| Bob
-| Adam
-| Peg
+// | Lee
+// | Bob
+// | Adam
+// | Peg
 
-| Melanie
-| Linda
-| Brandon
-| Terry
+// | Melanie
+// | Linda
+// | Brandon
+// | Terry
 
-| Colin
-| Brianna
-| Mike
-| Billy
+// | Colin
+// | Brianna
+// | Mike
+// | Billy
 
-| Bridget
-| 
-| Vickie
-| Ann
-|===
+// | Bridget
+// | 
+// | Vickie
+// | Ann
+// |===
 
 '''
 
 === Categories
 
-1. link:{basepath}round1-questions.html[So you think you can be President] (10)
-2. link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
-3. link:{basepath}round3-questions.html[Re-runs] (16)
-4. link:{basepath}round4-questions.html[Halloween] (10)
-5. link:{basepath}round5-questions.html[Who am I] (10)
-6. link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (11)
-7. link:{basepath}round7-questions.html[Altered Reality]
-8. link:{basepath}round8-questions.html[Dem Bones]
-9. link:{basepath}round9-questions.html[Public Domain] (15)
-10. link:{basepath}round10-questions.html[Odd Man Out] (10)
+// 1. link:{basepath}round1-questions.html[So you think you can be President] (10)
+// 2. link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
+// 3. link:{basepath}round3-questions.html[Re-runs] (16)
+// 4. link:{basepath}round4-questions.html[Halloween] (10)
+// 5. link:{basepath}round5-questions.html[Who am I] (10)
+// 6. link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (11)
+// 7. link:{basepath}round7-questions.html[Altered Reality]
+// 8. link:{basepath}round8-questions.html[Dem Bones]
+// 9. link:{basepath}round9-questions.html[Public Domain] (15)
+// 10. link:{basepath}round10-questions.html[Odd Man Out] (10)
 
 === Scores
 
