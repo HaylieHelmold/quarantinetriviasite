@@ -5,7 +5,7 @@
 
 == Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
 
-=== Possible Points = 85
+=== Possible Points = 95
 
 === Teams
 [%autowidth,stripes=even,]
@@ -57,7 +57,7 @@
 7. Altered Reality
 8. Dem Bones
 9. Public Domain (15)
-10. Odd Man Out
+10. Odd Man Out (10)
 
 === Scores
 
