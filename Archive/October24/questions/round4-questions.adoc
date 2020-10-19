@@ -25,3 +25,5 @@ Time: 10 min.
 9. Name as many candies as you can. The team with the most will win this point.
 
 Bonus: Name the 3 Sanderson sisters from the Halloween favorite 'Hocus Pocus'.
+
+link:../../../index.html[Click here to return to the main site]

@@ -23,3 +23,5 @@ Time: 10 min.
 9. In the Scooby Doo animated tv show, Daphne's main outfit consists of what 3 colors?
 
 10. On the Google homepage, next to the button labeled 'Google Search', there is another button. What does it say?
+
+link:../../../index.html[Click here to return to the main site]

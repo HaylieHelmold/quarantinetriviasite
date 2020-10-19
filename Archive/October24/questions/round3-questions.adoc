@@ -2,7 +2,7 @@
 
 Possible Points: 19
 
-Time: 10 min
+Time: 19 min
 
 1) 
 
@@ -79,3 +79,5 @@ audio::../videos/question18.mp3[]
 19)
 
 audio::../videos/question19.mp3[]
+
+link:../../../index.html[Click here to return to the main site]

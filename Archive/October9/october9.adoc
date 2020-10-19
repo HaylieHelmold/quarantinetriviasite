@@ -1,34 +1,173 @@
 = Trivia Week I Don't Even Know or Care tbh
+:basepath: Archive/October9/questions/round
 
-=== Your Lovely Hosts: Betsy, Hayes & Bridget
-here they are: 
+=== Your Lovely Hosts: Betsy, Hayes, Bridget & Rupie
+here they are (feat. Rupie Ramos): 
 
-image:../october9/picturetime/chaosrupie.jpeg[]
+image:../October9/picturetime/chaosrupie.jpeg[]
 
-=== Possible Points (107 so far)
+=== Possible Points = 155
 
-== Teams link:../teams/october9teams.html[Here]
+== Teams
+[%autowidth,stripes=even,]
+|===
+| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 
+
+
+|Billy
+|Haylie
+|Becky
+|Tim
+|Rhiannon
+
+|Ann
+|Mitch
+|Noah
+|Maria
+|Aaron
+
+|Rick
+|Ashley
+|Linda
+|Salma
+|Angelica
+
+|
+|Peyton
+|Bob
+|Mary
+|Nevin
+
+|Brandon
+|Brianna
+|Mike
+|Jeanie
+|Bella
+
+|Adam
+|Stacy
+|Peggy
+|Maureen
+|Cassidy
+
+|Patty & Tricia
+|Bea 
+|
+|Phil
+|Nevin's Friends
+|===
+
+*I did not feel like making another row for teams which is the only reason Patty and Tricia are grouped
+
+'''
 
 === Categories
 
-1. link:{basepath}1/rock.html[It's Still Rock and Roll to Me] (20 minutes)
+1. link:{basepath}1/enjoy.html[Enjoy!] (10 mins)
+- link:{basepath}1/round1ans.html[answers]
+2. link:{basepath}2/rock.html[It's Still Rock and Roll] (15 mins)
+- link:{basepath}2/round2ans.html[answers]
+3. link:{basepath}3/inahaze.html[In a Haze] (10 mins)
+- link:{basepath}3/round3ans.html[answers]
+4. link:{basepath}4/franklymydear.html[Frankly My Dear, I Don't Give a Damn] (10 mins)
+- link:{basepath}4/round4ans.html[answers]
+5. link:{basepath}5/maga.html[Make America Great Again] (10 mins)
+- link:{basepath}5/round5ans.html[answers]
+6. link:{basepath}6/goldengatebridge.html[Golden Gate Bridge] (10 mins)
+- link:{basepath}6/round6ans.html[answers]
+7. link:{basepath}7/seaweed.html[Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun!] (10 mins)
+- link:{basepath}7/round7ans.html[answers]
+8. link:{basepath}8/pemdas.html[Please Excuse My Dear Aunt Sally] (15 mins)
+- link:{basepath}8/round8ans.html[answers]
+9. link:{basepath}9/breakaleg.html[Break a Leg!] (10 mins)
+- link:{basepath}9/round9ans.html[answers]
+10. link:{basepath}10/anime.html[a sUrPriSe] (10 mins)
+- link:{basepath}10/round10ans.html[anime]
 
-2. In a Haze
 
-3. Famous Last Words
+== Teams & Scores
 
-4. John Doe
+[%autowidth,stripes=even,]
+|===
+| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
 
-5. Make America Great Again
+|Round 1
+| 13
+| 13
+| 12
+| 11
+| 12
 
-6. Enjoy!
+|Round 2   
+| 7.25
+| 5.5
+| 7.5
+| 5
+| 7
 
-7. Golden Gate Bridge
+| Round 3
+| 4
+| 4
+| 4
+| 4
+| 7
 
-8. Betsy
+|Round 4
+| 8
+| 4
+| 13
+| 14
+| 6
 
-9. Disney
+|Round 5
+| 11
+| 12
+| 10
+| 13
+| 11
 
-10. Please Excuse My Dear Aunt Sally
+|Round 6
+| 5
+| 0.5
+| 7
+| 4
+| 7
 
-11. a sUrPriSe
+|Round 7
+| 7
+| 4
+| 6
+| 7
+| 2
+
+|Round 8
+| 5
+| 8
+| 9
+| 6
+| 8
+
+|Round 9
+| 17
+| 2
+| 4
+| 6
+| 3
+
+|Round 10
+| 2
+| 7
+| 5
+| 9
+| 14
+
+|*Final*
+| 79.25
+| 62
+| 78.5
+| 79
+| 81
+|===
+
+'''
+

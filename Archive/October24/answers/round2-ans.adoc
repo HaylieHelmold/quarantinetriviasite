@@ -39,3 +39,5 @@ image:../images/scooby15.jpg[]
 10) On the Google homepage, next to the button labeled 'Google Search', there is another button. What does it say? *I'm Feeling Lucky*
 
 image:../images/round2-question10-answer.jpg[]
+
+link:../../../index.html[Click here to return to the main site]

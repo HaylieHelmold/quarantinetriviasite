@@ -26,7 +26,7 @@
 | Lee
 | Bob
 | Adam
-| 
+| Peg
 
 | Melanie
 | Linda
@@ -39,7 +39,7 @@
 | Billy
 
 | Bridget
-| Peg
+| 
 | Vickie
 | Ann
 |===
@@ -48,16 +48,16 @@
 
 === Categories
 
-1. So you think you can be President (10)
-2. Is anyone paying attention? (10)
-3. Re-runs (19)
-4. Halloween (10)
-5. Who am I (10)
-6. Home Field Ads.. I mean Advantage (11)
-7. Altered Reality
-8. Dem Bones
-9. Public Domain (15)
-10. Odd Man Out (10)
+1. link:{basepath}round1-questions.html[So you think you can be President] (10)
+2. link:{basepath}round1-questions.html[Is anyone paying attention?] (10)
+3. link:{basepath}round1-questions.html[Re-runs] (19)
+4. link:{basepath}round1-questions.html[Halloween] (10)
+5. link:{basepath}round1-questions.html[Who am I] (10)
+6. link:{basepath}round1-questions.html[Home Field Ads.. I mean Advantage] (11)
+7. link:{basepath}round1-questions.html[Altered Reality]
+8. link:{basepath}round1-questions.html[Dem Bones]
+9. link:{basepath}round1-questions.html[Public Domain] (15)
+10. link:{basepath}round1-questions.html[Odd Man Out] (10)
 
 === Scores
 

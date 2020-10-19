@@ -1,173 +1,151 @@
-= Trivia Week I Don't Even Know or Care tbh
-:basepath: Archive/October9/questions/round
+= Trivia Week 16 - Spooky Edition 🎃
 
-=== Your Lovely Hosts: Betsy, Hayes, Bridget & Rupie
-here they are (feat. Rupie Ramos): 
+:basepath: Archive/October24/questions/
 
-image:../October9/picturetime/chaosrupie.jpeg[]
 
-=== Possible Points = 155
+== Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
 
-== Teams
+=== Possible Points = 95
+
+=== Teams
 [%autowidth,stripes=even,]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4 | Team 5 
+| Team 1 | Team 2 |Team 3 | Team 4
 
 
-|Billy
-|Haylie
-|Becky
-|Tim
-|Rhiannon
+| Becky
+| Mary
+| Patty
+| Tim
 
-|Ann
-|Mitch
-|Noah
-|Maria
-|Aaron
+| Noah
+| Jeannie
+| Katie
+| Maria
 
-|Rick
-|Ashley
-|Linda
-|Salma
-|Angelica
+| Lee
+| Bob
+| Adam
+| Peg
 
-|
-|Peyton
-|Bob
-|Mary
-|Nevin
+| Melanie
+| Linda
+| Brandon
+| Terry
 
-|Brandon
-|Brianna
-|Mike
-|Jeanie
-|Bella
+| Colin
+| Brianna
+| Mike
+| Billy
 
-|Adam
-|Stacy
-|Peggy
-|Maureen
-|Cassidy
-
-|Patty & Tricia
-|Bea 
-|
-|Phil
-|Nevin's Friends
+| Bridget
+| 
+| Vickie
+| Ann
 |===
-
-*I did not feel like making another row for teams which is the only reason Patty and Tricia are grouped
 
 '''
 
 === Categories
 
-1. link:{basepath}1/enjoy.html[Enjoy!] (10 mins)
-- link:{basepath}1/round1ans.html[answers]
-2. link:{basepath}2/rock.html[It's Still Rock and Roll] (15 mins)
-- link:{basepath}2/round2ans.html[answers]
-3. link:{basepath}3/inahaze.html[In a Haze] (10 mins)
-- link:{basepath}3/round3ans.html[answers]
-4. link:{basepath}4/franklymydear.html[Frankly My Dear, I Don't Give a Damn] (10 mins)
-- link:{basepath}4/round4ans.html[answers]
-5. link:{basepath}5/maga.html[Make America Great Again] (10 mins)
-- link:{basepath}5/round5ans.html[answers]
-6. link:{basepath}6/goldengatebridge.html[Golden Gate Bridge] (10 mins)
-- link:{basepath}6/round6ans.html[answers]
-7. link:{basepath}7/seaweed.html[Seaweed is cool, Seaweed is fun. It gets its food from the rays of the sun!] (10 mins)
-- link:{basepath}7/round7ans.html[answers]
-8. link:{basepath}8/pemdas.html[Please Excuse My Dear Aunt Sally] (15 mins)
-- link:{basepath}8/round8ans.html[answers]
-9. link:{basepath}9/breakaleg.html[Break a Leg!] (10 mins)
-- link:{basepath}9/round9ans.html[answers]
-10. link:{basepath}10/anime.html[a sUrPriSe] (10 mins)
-- link:{basepath}10/round10ans.html[anime]
+1. link:{basepath}round1-questions.html[So you think you can be President] (10)
+2. link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
+3. link:{basepath}round3-questions.html[Re-runs] (19)
+4. link:{basepath}round4-questions.html[Halloween] (10)
+5. link:{basepath}round5-questions.html[Who am I] (10)
+6. link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (11)
+7. link:{basepath}round7-questions.html[Altered Reality]
+8. link:{basepath}round8-questions.html[Dem Bones]
+9. link:{basepath}round9-questions.html[Public Domain] (15)
+10. link:{basepath}round10-questions.html[Odd Man Out] (10)
 
-
-== Teams & Scores
+=== Scores
 
 [%autowidth,stripes=even,]
 |===
 | | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
 
 |Round 1
-| 13
-| 13
-| 12
-| 11
-| 12
+|
+| 
+| 
+| 
+| 
 
 |Round 2   
-| 7.25
-| 5.5
-| 7.5
-| 5
-| 7
+|
+| 
+| 
+| 
+| 
 
 | Round 3
-| 4
-| 4
-| 4
-| 4
-| 7
+| 
+| 
+| 
+| 
+| 
 
 |Round 4
-| 8
-| 4
-| 13
-| 14
-| 6
+| 
+| 
+| 
+| 
+| 
 
 |Round 5
-| 11
-| 12
-| 10
-| 13
-| 11
+| 
+| 
+| 
+| 
+| 
 
 |Round 6
-| 5
-| 0.5
-| 7
-| 4
-| 7
+| 
+| 
+| 
+| 
+| 
 
 |Round 7
-| 7
-| 4
-| 6
-| 7
-| 2
+| 
+| 
+| 
+| 
+| 
 
 |Round 8
-| 5
-| 8
-| 9
-| 6
-| 8
+| 
+| 
+| 
+| 
+| 
 
 |Round 9
-| 17
-| 2
-| 4
-| 6
-| 3
+| 
+| 
+| 
+| 
+| 
 
 |Round 10
-| 2
-| 7
-| 5
-| 9
-| 14
+| 
+| 
+| 
+| 
+| 
 
 |*Final*
-| 79.25
-| 62
-| 78.5
-| 79
-| 81
+| 
+| 
+| 
+| 
+| 
 |===
 
 '''
+
+=== Tie Breaker:
+
+How many Peanuts comic strips did Charles Shultz write in his lifetime? 
 

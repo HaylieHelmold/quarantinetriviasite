@@ -42,3 +42,5 @@ image:../images/round9-question.jpg[]
 | *Sid the Science Kid*
 | *Super Why!*
 |===
+
+link:../../../index.html[Click here to return to the main site]
