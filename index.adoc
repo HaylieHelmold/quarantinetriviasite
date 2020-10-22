@@ -1,11 +1,12 @@
 = Trivia Week 16 - Spooky Edition 🎃
 
 :basepath: Archive/October24/questions/
+:answersBasepath: Archive/October24/answers/
 
 
 == Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
 
-=== Possible Points = 92
+=== Possible Points = 115
 
 === Teams
 // [%autowidth,stripes=even,]
@@ -48,16 +49,50 @@
 
 === Categories
 
-// 1. link:{basepath}round1-questions.html[So you think you can be President] (10)
-// 2. link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
-// 3. link:{basepath}round3-questions.html[Re-runs] (16)
-// 4. link:{basepath}round4-questions.html[Halloween] (10)
-// 5. link:{basepath}round5-questions.html[Who am I] (10)
-// 6. link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (11)
-// 7. link:{basepath}round7-questions.html[Altered Reality]
-// 8. link:{basepath}round8-questions.html[Dem Bones]
-// 9. link:{basepath}round9-questions.html[Public Domain] (15)
-// 10. link:{basepath}round10-questions.html[Odd Man Out] (10)
+// 1 link:{basepath}round1-questions.html[So you think you can be President] (10)
+
+// 2 link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
+
+// 3 link:{basepath}round3-questions.html[Re-runs] (16)
+
+// 4 link:{basepath}round4-questions.html[Halloween] (10)
+
+// 5 link:{basepath}round5-questions.html[Who am I] (10)
+
+// 6 link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (11)
+
+// 7 link:{basepath}round7-questions.html[Reality Check] (12)
+
+// 8 link:{basepath}round8-questions.html[Dem Bones (and other Anatomical Pot Pourri)] (11)
+
+// 9 link:{basepath}round9-questions.html[Public Domain] (15)
+
+// 10 link:{basepath}round10-questions.html[Odd Man Out] (10)
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round1-ans.html[Round 1]
+
+// link:{answersBasepath}round2-ans.html[Round 2]
+
+// link:{answersBasepath}round3-ans.html[Round 3]
+
+// link:{answersBasepath}round4-ans.html[Round 4]
+
+// link:{answersBasepath}round5-ans.html[Round 5]
+
+// link:{answersBasepath}round6-ans.html[Round 6]
+
+// link:{answersBasepath}round7-ans.html[Round 7]
+
+// link:{answersBasepath}round8-ans.html[Round 8]
+
+// link:{answersBasepath}round9-ans.html[Round 9]
+
+// link:{answersBasepath}round10-ans.html[Round 10]
+
+// ====
 
 === Scores
 
@@ -147,5 +182,5 @@
 
 === Tie Breaker:
 
-How many Peanuts comic strips did Charles Shultz write in his lifetime? 
+// How many Peanuts comic strips did Charles Shultz write in his lifetime? 
 

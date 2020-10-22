@@ -4,6 +4,10 @@ Possible Points: 11
 
 Time: 10 min.
 
+These places are home to what major league sports team in either the NFL, NBA, NHL, MLB, or MLS. (Hint: There is at least one of each.)
+
+Example: US Bank Stadium - Minnesota Vikings, NFL
+
 1. SoFi Stadium
 2. Heinz Field
 3. Tropicana Field
