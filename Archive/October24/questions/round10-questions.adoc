@@ -1,6 +1,4 @@
-= Odd Man Out - Round 10
-
-Pick the thing that does not belong
+= NOT IT! - Round 10
 
 Possible Points: 10
 
@@ -13,7 +11,7 @@ b. Athena
 c. Venus
 d. Nike
 
-2) Which company CANNOT trace it's history back to Bell Systems? 
+2) Which company canNOT trace it's history back to Bell Systems? 
 
 a. T-Mobile
 b. AT&T
@@ -43,16 +41,39 @@ c. Germany
 d. Russia
 
 
-Ok, Jeopardy Style - Why is the highlighted person, place, or thing the odd one out. We will accept your answer if it makes sense and it is not terrible.
+6) Which actress did NOT start on Disney Channel?
 
-6) Miley Cyrus, *Ariana Grande*, Demi Lovato, Selena Gomez
+a. Miley Cyrus
+b. Ariana Grande
+c. Demi Lovato
+d. Selena Gomez
 
-7) Beryllium, Sodium, Zinc, *Iodine*
+7) Which element is NOT in the Metal group of elements on the periodic table?
 
-8) John F Kennedy, Ulysses S. Grant, *Millard Fillmore*, James K. Polk
+a. Beryllium
+b. Sodium
+c. Zinc
+d. Carbon
 
-9) *Vision*, Iron Man, Spiderman, Hulk
+8) Which US President was NOT a member of one of the 2 political parties that exist today?
 
-10) Chinook, *Persian*, Pumi, Cane Corso
+a. Ulysses S. Grant
+b. Millard Fillmore
+c. James K. Polk
+d. John F Kennedy
+
+9) Which Marvel Character did NOT appear in Avengers: Endgame?
+
+a. Vision
+b. Iron Man
+c. Spiderman
+d. Rocket
+
+10) Which of these breeds is NOT a dog breed?
+
+a. Chinook
+b. Persian
+c. Pumi
+d. Cane Corso
 
 link:../../../index.html[Click here to return to the main site]
