@@ -6,7 +6,7 @@
 
 == Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
 
-=== Possible Points = 121
+=== Possible Points = 125
 
 All *bonus* questions are answer at your own risk!! A correct answer will reward you **2** points while an incorrect answer is **-1**.
 
@@ -37,12 +37,12 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 // | Terry
 
 // | Colin
-// | Brianna
+// | Betsy
 // | Mike
 // | Billy
 
 // | Bridget
-// | Betsy
+// | 
 // | Vickie
 // | Ann
 // |===
@@ -53,7 +53,7 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 
 1 So, you think you can be President
 
-// link:{basepath}round1-questions.html[So, you think you can be President] (12)
+// link:{basepath}round1-questions.html[So, you think you can be President] (16)
 
 // .Answers
 // [%collapsible]
