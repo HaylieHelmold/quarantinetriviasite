@@ -6,7 +6,9 @@
 
 == Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
 
-=== Possible Points = 115
+=== Possible Points = 121
+
+All *bonus* questions are answer at your own risk!! A correct answer will reward you **2** points while an incorrect answer is **-1**.
 
 === Teams
 // [%autowidth,stripes=even,]
@@ -49,49 +51,104 @@
 
 === Categories
 
-// 1 link:{basepath}round1-questions.html[So you think you can be President] (10)
+1 So, you think you can be President
 
-// 2 link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
-
-// 3 link:{basepath}round3-questions.html[Re-runs] (16)
-
-// 4 link:{basepath}round4-questions.html[Halloween] (10)
-
-// 5 link:{basepath}round5-questions.html[Who am I] (10)
-
-// 6 link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (11)
-
-// 7 link:{basepath}round7-questions.html[Reality Check] (12)
-
-// 8 link:{basepath}round8-questions.html[Dem Bones (and other Anatomical Pot Pourri)] (11)
-
-// 9 link:{basepath}round9-questions.html[Public Domain] (15)
-
-// 10 link:{basepath}round10-questions.html[Odd Man Out] (10)
+// link:{basepath}round1-questions.html[So, you think you can be President] (12)
 
 // .Answers
 // [%collapsible]
 // ====
-// link:{answersBasepath}round1-ans.html[Round 1]
+// link:{answersBasepath}round1-ans.html[Round 1 - So, you think you can be President]
+// ====
 
-// link:{answersBasepath}round2-ans.html[Round 2]
+2 Is anyone paying attention?
 
-// link:{answersBasepath}round3-ans.html[Round 3]
+// link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
 
-// link:{answersBasepath}round4-ans.html[Round 4]
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round2-ans.html[Round 2 - Is anyone paying attention?]
+// ====
 
-// link:{answersBasepath}round5-ans.html[Round 5]
+3 Re-runs
 
-// link:{answersBasepath}round6-ans.html[Round 6]
+// link:{basepath}round3-questions.html[Re-runs] (16)
 
-// link:{answersBasepath}round7-ans.html[Round 7]
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round3-ans.html[Round 3 - Re-runs]
+// ====
 
-// link:{answersBasepath}round8-ans.html[Round 8]
+4 Halloween
 
-// link:{answersBasepath}round9-ans.html[Round 9]
+// link:{basepath}round4-questions.html[Halloween] (9)
 
-// link:{answersBasepath}round10-ans.html[Round 10]
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round4-ans.html[Round 4] - Halloween
+// ====
 
+5 Who Am I
+
+// link:{basepath}round5-questions.html[Who am I] (10)
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round5-ans.html[Round 5 - Who am I]
+// ====
+
+6 Home Field Ads.. I mean Advantage
+
+// link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (12)
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round6-ans.html[Round 6 - Home Field Ads.. I mean Advantage]
+// ====
+
+7 Reality Check
+
+// link:{basepath}round7-questions.html[Reality Check] (14)
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round7-ans.html[Round 7 - Reality Check]
+// ====
+
+8 Dem Bones (and other Anatomical Pot Pourri)
+
+// link:{basepath}round8-questions.html[Dem Bones (and other Anatomical Pot Pourri)] (12)
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
+// ====
+
+9 Public Domain
+
+// link:{basepath}round9-questions.html[Public Domain] (16)
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
+// ====
+
+10 NOT IT!
+
+// link:{basepath}round10-questions.html[NOT IT!] (10)
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
 // ====
 
 === Scores

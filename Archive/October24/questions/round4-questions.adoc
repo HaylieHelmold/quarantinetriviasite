@@ -1,14 +1,12 @@
 = Halloween - Round 4
 
-Possible Points: 10
+Possible Points: 9
 
 Time: 10 min.
 
 1. Based on the cumulative worldwide box office, what is the highest grossing horror film of all time? 
 
-2. In 2019, what were the most popular kids costumes for 
-    girls?
-    boys?
+2.  Name one of the 3 Sanderson sisters from the Halloween favorite 'Hocus Pocus'. 
 
 3. In what country was the first written account of children using the phrase “trick or treat” on Halloween?
 
@@ -23,7 +21,5 @@ Time: 10 min.
 8. In 'It's the Great Pumpkin Charlie Brown' what game do the kids play at the Halloween party?
 
 9. Name as many candies as you can. The team with the most will win this point.
-
-Bonus: Name one of the Sanderson sisters from the Halloween favorite 'Hocus Pocus'.
 
 link:../../../index.html[Click here to return to the main site]

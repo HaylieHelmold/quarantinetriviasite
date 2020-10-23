@@ -2,7 +2,7 @@
 
 == So, you think you can be President
 
-Possible Points: 14
+Possible Points: 15
 
 Time: 10 min.
 
@@ -24,5 +24,7 @@ Time: 10 min.
 8) How old do you have to be to run for president? *35*
 
 9) What was the original number of justices on the United States Supreme Court, established in the Judiciary Act of 1789 ? *6*
+
+Bonus: How many descendants of Abraham Lincoln are alive today? *0*
 
 link:../../../index.html[Click here to return to the main site]
