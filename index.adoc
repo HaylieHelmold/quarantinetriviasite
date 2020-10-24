@@ -11,41 +11,46 @@
 All *bonus* questions are answer at your own risk!! A correct answer will reward you **2** points while an incorrect answer is **-1**.
 
 === Teams
-// [%autowidth,stripes=even,]
-// |===
-// | Team 1 | Team 2 |Team 3 | Team 4
+[%autowidth,stripes=even,]
+|===
+| Team 1 | Team 2 |Team 3 | Team 4
 
 
-// | Becky
-// | Mary
-// | Patty
-// | Tim
+| Becky
+| Mary
+| Katie
+| Tim
 
-// | Noah
-// | Jeannie
-// | Katie
-// | Maria
+| Noah
+| Jeannie
+| Adam
+| Maria
 
-// | Lee
-// | Bob
-// | Adam
-// | Peg
+| Lee
+| Bob
+| Brandon
+| Peg
 
-// | Melanie
-// | Linda
-// | Brandon
-// | Terry
+| Melanie
+| Linda
+| Mike
+| Terry
 
-// | Colin
-// | Betsy
-// | Mike
-// | Billy
+| Colin
+| Bridget
+| Vickie
+| Patty
 
-// | Bridget
-// | 
-// | Vickie
-// | Ann
-// |===
+| Billy
+| Maureen
+| Betsy
+| Tricia
+
+| Ann
+| Phil
+| Jake
+| 
+|===
 
 '''
 
