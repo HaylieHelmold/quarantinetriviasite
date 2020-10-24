@@ -56,9 +56,7 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 
 === Categories
 
-1 So, you think you can be President
-
-// link:{basepath}round1-questions.html[So, you think you can be President] (16)
+1 link:{basepath}round1-questions.html[So, you think you can be President]
 
 // .Answers
 // [%collapsible]
@@ -244,5 +242,5 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 
 === Tie Breaker:
 
-// How many Peanuts comic strips did Charles Shultz write in his lifetime? 
+How many Peanuts comic strips did Charles Shultz write in his lifetime? 
 
