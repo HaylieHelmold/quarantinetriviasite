@@ -177,10 +177,10 @@ link:{answersBasepath}round4-ans.html[Round 4 - Halloween]
 |15
 
 |Round 4
-| 
-| 
-| 
-| 
+|2 
+|6
+|4
+|3
 
 |Round 5
 | 
@@ -219,10 +219,10 @@ link:{answersBasepath}round4-ans.html[Round 4 - Halloween]
 | 
 
 |*Final*
-|39 
-|38
-|42
-|43
+|41
+|44
+|46
+|46
 |===
 
 '''
