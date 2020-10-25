@@ -122,15 +122,13 @@ link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
 
 9 link:{basepath}round9-questions.html[Public Domain] (16)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
+====
 
-10 NOT IT!
-
-// link:{basepath}round10-questions.html[NOT IT!] (10)
+10 link:{basepath}round10-questions.html[NOT IT!] (10)
 
 // .Answers
 // [%collapsible]
