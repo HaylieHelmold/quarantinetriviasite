@@ -189,10 +189,10 @@ link:{answersBasepath}round7-ans.html[Round 7 - Reality Check]
 |9
 
 |Round 7
-| 
-| 
-| 
-| 
+|7 
+|7
+|6
+|6
 
 |Round 8
 | 
@@ -213,10 +213,10 @@ link:{answersBasepath}round7-ans.html[Round 7 - Reality Check]
 | 
 
 |*Final*
-|59
-|62
-|65
-|63
+|66
+|69
+|71
+|69
 |===
 
 '''
