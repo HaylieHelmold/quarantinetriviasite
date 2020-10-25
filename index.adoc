@@ -203,16 +203,16 @@ link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
 |7
 
 |Round 10
-| 
-| 
-| 
-| 
+|8 
+|9
+|8
+|5
 
 |*Final*
-|82.5
-|89.5
-|92
-|85
+|90.5
+|98.5
+|100
+|90
 |===
 
 '''
