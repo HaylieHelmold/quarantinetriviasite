@@ -193,10 +193,10 @@ link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
 |6
 
 |Round 8
-| 
-| 
-| 
-| 
+|6 
+|8
+|10
+|9
 
 |Round 9
 | 
@@ -211,10 +211,10 @@ link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
 | 
 
 |*Final*
-|66
-|69
-|71
-|69
+|72
+|77
+|81
+|78
 |===
 
 '''
