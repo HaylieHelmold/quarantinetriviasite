@@ -114,15 +114,13 @@ link:{answersBasepath}round7-ans.html[Round 7 - Reality Check]
 
 8 link:{basepath}round8-questions.html[Dem Bones (and other Anatomical Pot Pourri)] (12)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
+====
 
-9 Public Domain
-
-// link:{basepath}round9-questions.html[Public Domain] (16)
+9 link:{basepath}round9-questions.html[Public Domain] (16)
 
 // .Answers
 // [%collapsible]
