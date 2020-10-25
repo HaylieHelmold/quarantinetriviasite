@@ -82,15 +82,13 @@ link:{answersBasepath}round3-ans.html[Round 3 - Re-runs]
 
 4 link:{basepath}round4-questions.html[Halloween] (9)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round4-ans.html[Round 4] - Halloween
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round4-ans.html[Round 4 - Halloween]
+====
 
-5 Who Am I
-
-// link:{basepath}round5-questions.html[Who am I] (10)
+5 link:{basepath}round5-questions.html[Who am I] (10)
 
 // .Answers
 // [%collapsible]
