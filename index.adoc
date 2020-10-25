@@ -197,10 +197,10 @@ link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
 |9
 
 |Round 9
-| 
-| 
-| 
-| 
+|10.5 
+|12.5
+|11
+|7
 
 |Round 10
 | 
@@ -209,10 +209,10 @@ link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
 | 
 
 |*Final*
-|72
-|77
-|81
-|78
+|82.5
+|89.5
+|92
+|85
 |===
 
 '''
