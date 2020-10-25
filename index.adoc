@@ -98,15 +98,13 @@ link:{answersBasepath}round5-ans.html[Round 5 - Who am I]
 
 6 link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (12)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round6-ans.html[Round 6 - Home Field Ads.. I mean Advantage]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round6-ans.html[Round 6 - Home Field Ads.. I mean Advantage]
+====
 
-7 Reality Check
-
-// link:{basepath}round7-questions.html[Reality Check] (14)
+7 link:{basepath}round7-questions.html[Reality Check] (14)
 
 // .Answers
 // [%collapsible]
