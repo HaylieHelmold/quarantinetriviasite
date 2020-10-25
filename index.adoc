@@ -130,11 +130,11 @@ link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
 
 10 link:{basepath}round10-questions.html[NOT IT!] (10)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
+====
 
 === Scores
 
