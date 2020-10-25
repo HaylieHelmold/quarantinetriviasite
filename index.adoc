@@ -220,4 +220,4 @@ link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
 === Tie Breaker:
 
 How many Peanuts comic strips did Charles Shultz write in his lifetime? 
-
+A: 17897
