@@ -106,15 +106,13 @@ link:{answersBasepath}round6-ans.html[Round 6 - Home Field Ads.. I mean Advantag
 
 7 link:{basepath}round7-questions.html[Reality Check] (14)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round7-ans.html[Round 7 - Reality Check]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round7-ans.html[Round 7 - Reality Check]
+====
 
-8 Dem Bones (and other Anatomical Pot Pourri)
-
-// link:{basepath}round8-questions.html[Dem Bones (and other Anatomical Pot Pourri)] (12)
+8 link:{basepath}round8-questions.html[Dem Bones (and other Anatomical Pot Pourri)] (12)
 
 // .Answers
 // [%collapsible]
