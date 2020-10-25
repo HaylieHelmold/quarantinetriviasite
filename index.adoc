@@ -56,7 +56,7 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 
 === Categories
 
-1 link:{basepath}round1-questions.html[So, you think you can be President]
+1 link:{basepath}round1-questions.html[So, you think you can be President] (16)
 
 .Answers
 [%collapsible]
@@ -66,15 +66,13 @@ link:{answersBasepath}round1-ans.html[Round 1 - So, you think you can be Preside
 
 2 link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round2-ans.html[Round 2 - Is anyone paying attention?]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round2-ans.html[Round 2 - Is anyone paying attention?]
+====
 
-3 Re-runs
-
-// link:{basepath}round3-questions.html[Re-runs] (16)
+3 link:{basepath}round3-questions.html[Re-runs] (16)
 
 // .Answers
 // [%collapsible]
@@ -158,11 +156,17 @@ link:{answersBasepath}round1-ans.html[Round 1 - So, you think you can be Preside
 |===
 | | Team 1 | Team 2 |Team 3 | Team 4
 
+|Costume Bonus
+|6
+|6
+|6
+|6
+
 |Round 1
-|
-| 
-| 
-| 
+|11
+|11
+|12
+|14
 
 |Round 2   
 |
