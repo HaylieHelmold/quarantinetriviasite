@@ -158,11 +158,10 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4 | Team 5
+| | Team 1 | Team 2 |Team 3 | Team 4
 
 |Round 1
 |
-| 
 | 
 | 
 | 
@@ -172,10 +171,8 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 | 
 | 
 | 
-| 
 
 | Round 3
-| 
 | 
 | 
 | 
@@ -186,10 +183,8 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 | 
 | 
 | 
-| 
 
 |Round 5
-| 
 | 
 | 
 | 
@@ -200,10 +195,8 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 | 
 | 
 | 
-| 
 
 |Round 7
-| 
 | 
 | 
 | 
@@ -214,10 +207,8 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 | 
 | 
 | 
-| 
 
 |Round 9
-| 
 | 
 | 
 | 
@@ -228,10 +219,8 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 | 
 | 
 | 
-| 
 
 |*Final*
-| 
 | 
 | 
 | 
