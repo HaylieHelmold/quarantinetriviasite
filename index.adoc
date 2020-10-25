@@ -169,10 +169,10 @@ link:{answersBasepath}round2-ans.html[Round 2 - Is anyone paying attention?]
 |14
 
 |Round 2   
-|
-| 
-| 
-| 
+|7
+|6
+|8
+|8
 
 | Round 3
 | 
@@ -223,10 +223,10 @@ link:{answersBasepath}round2-ans.html[Round 2 - Is anyone paying attention?]
 | 
 
 |*Final*
-| 
-| 
-| 
-| 
+|24 
+|23
+|26
+|28
 |===
 
 '''
