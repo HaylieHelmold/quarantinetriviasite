@@ -74,15 +74,13 @@ link:{answersBasepath}round2-ans.html[Round 2 - Is anyone paying attention?]
 
 3 link:{basepath}round3-questions.html[Re-runs] (16)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round3-ans.html[Round 3 - Re-runs]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round3-ans.html[Round 3 - Re-runs]
+====
 
-4 Halloween
-
-// link:{basepath}round4-questions.html[Halloween] (9)
+4 link:{basepath}round4-questions.html[Halloween] (9)
 
 // .Answers
 // [%collapsible]
