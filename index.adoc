@@ -173,10 +173,10 @@ link:{answersBasepath}round3-ans.html[Round 3 - Re-runs]
 |8
 
 | Round 3
-| 
-| 
-| 
-| 
+|15 
+|15
+|16
+|15
 
 |Round 4
 | 
@@ -221,10 +221,10 @@ link:{answersBasepath}round3-ans.html[Round 3 - Re-runs]
 | 
 
 |*Final*
-|24 
-|23
-|26
-|28
+|39 
+|38
+|42
+|43
 |===
 
 '''
