@@ -58,15 +58,13 @@ All *bonus* questions are answer at your own risk!! A correct answer will reward
 
 1 link:{basepath}round1-questions.html[So, you think you can be President]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round1-ans.html[Round 1 - So, you think you can be President]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round1-ans.html[Round 1 - So, you think you can be President]
+====
 
-2 Is anyone paying attention?
-
-// link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
+2 link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
 
 // .Answers
 // [%collapsible]
