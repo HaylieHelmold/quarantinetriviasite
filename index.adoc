@@ -90,15 +90,13 @@ link:{answersBasepath}round4-ans.html[Round 4 - Halloween]
 
 5 link:{basepath}round5-questions.html[Who am I] (10)
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round5-ans.html[Round 5 - Who am I]
-// ====
+.Answers
+[%collapsible]
+====
+link:{answersBasepath}round5-ans.html[Round 5 - Who am I]
+====
 
-6 Home Field Ads.. I mean Advantage
-
-// link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (12)
+6 link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (12)
 
 // .Answers
 // [%collapsible]
@@ -177,10 +175,10 @@ link:{answersBasepath}round4-ans.html[Round 4 - Halloween]
 |15
 
 |Round 4
-|2 
-|6
-|4
-|3
+|2 (56 candies) 
+|6 (54 candies)
+|4 (28 candies)
+|3 (47 candies)
 
 |Round 5
 | 
