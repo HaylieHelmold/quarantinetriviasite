@@ -78,29 +78,23 @@ link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
 ====
 
 
-8 
+8 link:{basepath}round8/round8-questions.html[2020]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round8/round8-answers.html[2020 Answers]
+====
 
-9 
+9 link:{basepath}round9/round9-questions.html[Name 4 _]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
-// ====
+10 link:{basepath}round10/round10-questions.html[The Final Cut]
 
-10 
-
-// .Answers
-// [%collapsible]
-// ====
-// link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round10/round10-answers.html[The Final Cut Answers]
+====
 
 === Scores
 

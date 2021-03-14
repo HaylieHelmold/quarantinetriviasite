@@ -8,43 +8,43 @@
 
 1 
 
-image:{path}question1.jpg[]
+image:{path}question1.jpg[500,500]
 
 2 
 
-image:{path}question2.jpg[]
+image:{path}question2.jpg[500,500]
 
 3 
 
-image:{path}question3.jpg[]
+image:{path}question3.jpg[500,500]
 
 4 
 
-image:{path}question4-.jpg[]
+image:{path}question4.jpg[500,500]
 
 5 
 
-image:{path}question5.jpg[]
+image:{path}question5.jpg[500,500]
 
 6 
 
-image:{path}question6.jpg[]
+image:{path}question6.jpg[500,500]
 
 7 
 
-image:{path}question7.jpg[]
+image:{path}question7.jpg[500,500]
 
 8 
 
-image:{path}question8.jpg[]
+image:{path}question8.jpg[500,500]
 
 9 
 
-image:{path}question9.jpg[]
+image:{path}question9.jpg[500,500]
 
 10 
 
-image:{path}question10.jpg[]
+image:{path}question10.jpg[500,500]
 
 
 '''

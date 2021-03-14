@@ -1,0 +1,31 @@
+= Name 4 _
+
+== Possible Points = 20
+
+=== HURRY. Each correct answer is a half point.
+
+
+1. Name 4 famous Michaels
+
+2. Name 4 brands of cosemetics
+
+3. Name 4 countries that begin with M
+
+4. Name 4 wedding traditions
+
+5. Name 4 Jim Carrey movies
+
+6. Name 4 one-hit wonders
+
+7. Name 4 U.S. State Capitols
+
+8. Name 4 celebrity couple break ups
+
+9. Name 4 Poker hands
+
+10. Name 4 Dances
+
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

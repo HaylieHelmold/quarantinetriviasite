@@ -4,43 +4,43 @@
 
 1 - *Scooby-Doo Monsters Unleashed*
 
-image:{path}question1.jpg[]
+image:{path}question1.jpg[500,500]
 
 2 *Alien*
 
-image:{path}question2.jpg[]
+image:{path}question2.jpg[500,500]
 
 3 *Men in Black*
 
-image:{path}question3.jpg[]
+image:{path}question3.jpg[500,500]
 
 4 *Ghostbusters*
 
-image:{path}question4.jpg[]
+image:{path}question4.jpg[500,500]
 
 5 *Hocus Pocus*
 
-image:{path}question5.jpg[]
+image:{path}question5.jpg[500,500]
 
 6 *Godzilla*
 
-image:{path}question6.jpg[]
+image:{path}question6.jpg[500,500]
 
 7 *Pacific Rim*
 
-image:{path}question7.jpg[]
+image:{path}question7.jpg[500,500]
 
 8 *Star Wars*
 
-image:{path}question8.jpg[]
+image:{path}question8.jpg[500,500]
 
 9 *Monsters Inc*
 
-image:{path}question9.jpg[]
+image:{path}question9.jpg[500,500]
 
 10 *Star Trek*
 
-image:{path}question10.jpg[]
+image:{path}question10.jpg[500,500]
 
 
 '''
