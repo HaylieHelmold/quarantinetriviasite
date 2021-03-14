@@ -1,0 +1,67 @@
+= Happy Birthday!
+
+== Possible Points = 24
+
+=== Here is a list of 24 famous people. One person in the left column was born in the same year as one person in the right column. There is no overlap. Give me the letter/number pair that were born in the same year, Organized A-L. The years are listed below. For an extra point attach the correct year to the pair.
+
+[%autowidth,stripes=even,]
+|===
+| Column 1 | Column 2
+
+| A. Elton John
+| 1. Pierce Brosnan
+
+| B. Tim Allen
+| 2. Avril Lavigne
+
+| C. Adolf Hitler
+| 3. Jimmy Carter
+
+| D. Post Malone
+| 4. Groucho Marx
+
+| E. John Wayne
+| 5. Robert Downey Jr
+
+| F. Dwight D. Eisenhower
+| 6. Charlie Chaplain
+
+| G. Shania Twain
+| 7. Gene Autrey
+
+| H. Drew Barrymore
+| 8. David Beckham
+
+| I. Don Knotts
+| 9. Uma Thurman
+
+| J. Queen Latifah
+| 10. Tina Turner
+
+| K. Prince Harry
+| 11. David Letterman
+
+| L. Mike Ditka
+| 12. Patrick Mahomes
+
+|===
+
+
+- 1889 
+- 1890 
+- 1907 
+- 1924 
+- 1939 
+- 1947  
+- 1953 
+- 1965 
+- 1970 
+- 1975  
+- 1984 
+- 1995
+
+
+'''
+
+link:../../../index.html[Click here to return to the main site]
+

@@ -1,0 +1,46 @@
+= Name that...
+
+== Possible Points = 15
+
+=== Name that... 
+
+
+*...Alcohol* (there are no repeats)
+
+1) Cosmopolitan
+
+2) Mint Julip
+
+3) Mojito
+
+4) Tom collins
+
+5) Manhattan
+
+*...Invention* (there is more than one right answer for some of these)
+
+6) Alexander Graham Bell
+
+7) Eli whitney
+
+8) Thomas Edison
+
+9) Benjamin Franklin
+
+10) Samuel W. Francis
+
+*...SongWRITER* (another famous singer/songwriter wrote these songs for these performers)
+
+11) Immortality - Celine Dion
+
+12) You'll always find you way back home - Miley Cyrus
+
+13) (You make me feel like a) Natural Woman - Aretha Franklin
+
+14) Love Yourself - Justin Beiber
+
+15) Forget you - Ceelo Green
+
+'''
+
+link:../../../index.html[Click here to return to the main site]

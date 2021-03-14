@@ -1,140 +1,106 @@
-= Trivia Week 16 - Spooky Edition 🎃
+= Trivia Week 26
 
-:basepath: Archive/October24/questions/
-:answersBasepath: Archive/October24/answers/
+:basepath: 2021/March27/
+:answersBasepath: Archive/April3/answers/
 
 
-== Your Lovely Hosts: Mark, Anna, Mitch, & Haylie
+== Your Lovely Hosts: Mitch, & Haylie
 
-=== Possible Points = 125
+=== Possible Points = 
 
-All *bonus* questions are answer at your own risk!! A correct answer will reward you **2** points while an incorrect answer is **-1**.
+
 
 === Teams
 [%autowidth,stripes=even,]
 |===
 | Team 1 | Team 2 |Team 3 | Team 4
 
-
-| Becky
-| Mary
-| Katie
-| Tim
-
-| Noah
-| Jeannie
-| Adam
-| Maria
-
-| Lee
-| Bob
-| Brandon
-| Peg
-
-| Melanie
-| Linda
-| Mike
-| Terry
-
-| Colin
-| Bridget
-| Vickie
-| Tricia
-
-| Billy
-| Maureen
-| Betsy
-| Lisa
-
-| Ann
-| Phil
-| Jake
-| Rob
 |===
 
 '''
 
 === Categories
 
-1 link:{basepath}round1-questions.html[So, you think you can be President] (16)
+1 link:{basepath}round1/round1-questions.html[Monarchies are so 1775]
 
 .Answers
 [%collapsible]
 ====
-link:{answersBasepath}round1-ans.html[Round 1 - So, you think you can be President]
+link:{basepath}round1/round1-answers.html[Monarchies are so 1775 Answers]
 ====
 
-2 link:{basepath}round2-questions.html[Is anyone paying attention?] (10)
-
-.Answers
-[%collapsible]
-====
-link:{answersBasepath}round2-ans.html[Round 2 - Is anyone paying attention?]
-====
-
-3 link:{basepath}round3-questions.html[Re-runs] (16)
+2 link:{basepath}round2/round2-questions.html[Happy Birthday!]
 
 .Answers
 [%collapsible]
 ====
-link:{answersBasepath}round3-ans.html[Round 3 - Re-runs]
+link:{basepath}round2/round2-answers.html[Happy Birthday! Answers]
 ====
 
-4 link:{basepath}round4-questions.html[Halloween] (9)
-
-.Answers
-[%collapsible]
-====
-link:{answersBasepath}round4-ans.html[Round 4 - Halloween]
-====
-
-5 link:{basepath}round5-questions.html[Who am I] (10)
+3 link:{basepath}round3/round3-questions.html[Name That...]
 
 .Answers
 [%collapsible]
 ====
-link:{answersBasepath}round5-ans.html[Round 5 - Who am I]
+link:{basepath}round3/round3-answers.html[Name that... Answers]
 ====
 
-6 link:{basepath}round6-questions.html[Home Field Ads.. I mean Advantage] (12)
-
-.Answers
-[%collapsible]
-====
-link:{answersBasepath}round6-ans.html[Round 6 - Home Field Ads.. I mean Advantage]
-====
-
-7 link:{basepath}round7-questions.html[Reality Check] (14)
+4 link:{basepath}round4/round4-questions.html[The Final Frontier]
 
 .Answers
 [%collapsible]
 ====
-link:{answersBasepath}round7-ans.html[Round 7 - Reality Check]
+link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
 ====
 
-8 link:{basepath}round8-questions.html[Dem Bones (and other Anatomical Pot Pourri)] (12)
-
-.Answers
-[%collapsible]
-====
-link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
-====
-
-9 link:{basepath}round9-questions.html[Public Domain] (16)
+5 link:{basepath}round5/round5-questions.html[Snack Time]
 
 .Answers
 [%collapsible]
 ====
-link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
+link:{basepath}round5/round5-answers.html[Snack Time Answers]
 ====
 
-10 link:{basepath}round10-questions.html[NOT IT!] (10)
+6 link:{basepath}round6/round6-questions.html[Playing the Long Game]
 
 .Answers
 [%collapsible]
 ====
-link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
+link:{basepath}round6/round6-answers.html[Playing the Long Game Answers]
 ====
+
+7 link:{basepath}round7/round7-questions.html[Movie Monsters]
+
+.Answers
+[%collapsible]
+====
+link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
+====
+
+
+8 
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round8-ans.html[Round 8 - Dem Bones]
+// ====
+
+9 
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round9-ans.html[Round 9 - Public Domain]
+// ====
+
+10 
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
+// ====
 
 === Scores
 
@@ -142,82 +108,73 @@ link:{answersBasepath}round10-ans.html[Round 10 - NOT IT!]
 |===
 | | Team 1 | Team 2 |Team 3 | Team 4
 
-|Costume Bonus
-|6
-|6
-|6
-|6
-
 |Round 1
-|11
-|11
-|12
-|14
+|
+|
+|
+|
 
 |Round 2   
-|7
-|6
-|8
-|8
+|
+|
+|
+|
 
 | Round 3
-|15 
-|15
-|16
-|15
+|
+|
+|
+|
 
 |Round 4
-|2 (56 candies) 
-|6 (54 candies)
-|4 (28 candies)
-|3 (47 candies)
+|
+|
+|
+|
 
 |Round 5
-|9 
-|9
-|9
-|8
+|
+|
+|
+|
 
 |Round 6
-|9 
-|9
-|10
-|9
+|
+|
+|
+|
 
 |Round 7
-|7 
-|7
-|6
-|6
+|
+|
+|
+|
 
 |Round 8
-|6 
-|8
-|10
-|9
+| 
+|
+|
+|
 
 |Round 9
-|10.5 
-|12.5
-|11
-|7
+|
+|
+|
+|
 
 |Round 10
-|8 
-|9
-|8
-|5
+|
+|
+|
+|
 
 |*Final*
-|90.5
-|98.5
-|100
-|90
+|
+|
+|
+|
 |===
 
 '''
 
 === Tie Breaker:
-
-How many Peanuts comic strips did Charles Shultz write in his lifetime? 
-A: 17897
