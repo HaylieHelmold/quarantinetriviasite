@@ -2,29 +2,50 @@
 
 == Possible Points = 10
 
-=== Name the Character AND the Actor/Actress who plays them or voices them.
+=== Name the Main Character speaking AND the Actor/Actress who plays them/voices them. I don't care at all if you know the movie :) 
+
+:path: ../resources/videos/
 
 
-1
+1 
+
+video::{path}output1.mp4[500,500]
 
 2
 
+video::{path}output2.mp4[500,500]
+
 3
+
+video::{path}output3.mp4[500,500]
 
 4
 
+video::{path}output4.mp4[500,500]
+
 5
+
+video::{path}output5.mp4[500,500]
 
 6
 
+video::{path}output6.mp4[500,500]
+
 7
+
+video::{path}output7.mp4[500,500]
 
 8
 
+video::{path}output8.mp4[500,500]
+
 9
+
+video::{path}output9.mp4[500,500]
 
 10
 
+video::{path}output10.mp4[500,500]
 
 '''
 

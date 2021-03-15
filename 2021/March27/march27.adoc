@@ -2,7 +2,7 @@
 
 == Your Hosts: Mitch & Haylie
 
-=== Possible Total Points: 1
+=== Possible Total Points: 129
 
 == Teams link:../teams/march27teams.html[Here]
 
@@ -16,5 +16,5 @@
 6. Playing the Long Game (10)
 7. Movie Monsters (10)
 8. 2020 (10)
-9. Name 4 _ (30)
+9. Name 4 _ (20)
 10. The Final Cut (10)
