@@ -2,7 +2,7 @@
 
 :basepath: 2021/March27/
 
-== Your Lovely Hosts: Mitch, & Haylie
+== Your Lovely Hosts: Mitch & Haylie
 
 === Possible Points = 129
 
