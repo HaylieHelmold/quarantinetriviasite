@@ -2,7 +2,7 @@
 
 == Possible Points = 10
 
-=== Name the Main Character speaking AND the Actor/Actress who plays them/voices them. I don't care at all if you know the movie :) 
+=== Name the main character speaking AND the actor/actress who plays them/voices them. I don't care at all if you know the movie :) 
 
 :path: ../resources/videos/
 

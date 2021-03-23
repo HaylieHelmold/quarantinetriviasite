@@ -2,7 +2,7 @@
 
 == Possible Points = 10
 
-=== Name the Movie or Franchise that these monsters appear in.
+=== Name the movie/franchise that these monsters appear in.
 
 :path: ../resources/images/round7/
 

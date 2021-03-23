@@ -2,7 +2,10 @@
 
 == Possible Points = 24
 
-=== Here is a list of 24 famous people. One person in the left column was born in the same year as one person in the right column. There is no overlap. Give me the letter/number pair that were born in the same year, Organized A-L. The years are listed below. For an extra point attach the correct year to the pair.
+=== Here is a list of 24 famous people. One person in the left column was born in the same year as one person in the right column. There is no overlap. 
+
+=== Give me the letter/number pair that were born in the same year, Organized A-L. The years are listed below. For an extra point attach the correct year to the pair.
+
 
 [%autowidth,stripes=even,]
 |===

@@ -2,7 +2,7 @@
 
 == Possible Points = 10
 
-=== Answer the movie or video game theme that is associated with the following instrumental music.
+=== Answer the movie, tv show or video game theme that is associated with the following instrumental music. You don't need to name the specific title i.e. Just Harry Potter will suffice as well as Harry Potter and the Prisoner of Azkaban.
 
 :path: ../resources/sound/
 
