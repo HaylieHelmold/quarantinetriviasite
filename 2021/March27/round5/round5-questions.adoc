@@ -1,51 +1,50 @@
-= Snack Time
+= What's the theme of this round
 
 == Possible Points = 10
 
-=== What descriptor is missing from these not so original snack packages?
+=== Answer the movie or video game theme that is associated with the following instrumental music.
 
-:path: ../resources/images/round5/
+:path: ../resources/sound/
 
-1 
+1) 
 
-image:{path}question1.png[500,500]
+audio::{path}output1.mp3[options="controls"]
 
-2 
+2)
 
-image:{path}question2.png[500,500]
+audio::{path}output2.mp3[options="controls"]
 
-3 
+3)
 
-image:{path}question3.png[500,500]
+audio::{path}output3.mp3[options="controls"]
 
-4 
+4)
 
-image:{path}question4.png[500,500]
+audio::{path}output4.mp3[options="controls"]
 
-5 
+5)
 
-image:{path}question5.png[500,500]
+audio::{path}output5.mp3[options="controls"]
 
-6 
+6)
 
-image:{path}question6.png[500,500]
+audio::{path}output6.mp3[options="controls"]
 
-7 
+7)
 
-image:{path}question7.png[500,500]
+audio::{path}output7.mp3[options="controls"]
 
-8 
+8)
 
-image:{path}question8.png[500,500]
+audio::{path}output8.mp3[options="controls"]
 
-9 
+9)
 
-image:{path}question9.png[500,500]
+audio::{path}output9.mp3[options="controls"]
 
-10 
+10)
 
-image:{path}question10.png[500,500]
-
+audio::{path}output10.mp3[options="controls"]
 
 '''
 

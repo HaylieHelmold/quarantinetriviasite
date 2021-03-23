@@ -17,80 +17,86 @@
 
 === Categories
 
-// 1 link:{basepath}round1/round1-questions.html[Monarchies are so 1775]
+1) link:{basepath}round1/round1-questions.html[Monarchies are so 1775]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round1/round1-answers.html[Monarchies are so 1775 Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round1/round1-answers.html[Monarchies are so 1775 Answers]
+// ====
 
-// 2 link:{basepath}round2/round2-questions.html[Happy Birthday!]
+2) link:{basepath}round2/round2-questions.html[Happy Birthday!]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round2/round2-answers.html[Happy Birthday! Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round2/round2-answers.html[Happy Birthday! Answers]
+// ====
 
-// 3 link:{basepath}round3/round3-questions.html[Name That...]
+3) link:{basepath}round3/round3-questions.html[Name That...]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round3/round3-answers.html[Name that... Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round3/round3-answers.html[Name that... Answers]
+// ====
 
-// 4 link:{basepath}round4/round4-questions.html[The Final Frontier]
+4) link:{basepath}round4/round4-questions.html[The Final Frontier]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
+// ====
 
-// 5 link:{basepath}round5/round5-questions.html[Snack Time]
+5) link:{basepath}round5/round5-questions.html[What's the theme of this round?]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round5/round5-answers.html[Snack Time Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round5/round5-answers.html[What's the theme of this round? Answers]
+// ====
 
-// 6 link:{basepath}round6/round6-questions.html[Playing the Long Game]
+6) link:{basepath}round6/round6-questions.html[Playing the Long Game]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round6/round6-answers.html[Playing the Long Game Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round6/round6-answers.html[Playing the Long Game Answers]
+// ====
 
-// 7 link:{basepath}round7/round7-questions.html[Movie Monsters]
+7) link:{basepath}round7/round7-questions.html[Movie Monsters]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
+// ====
 
 
-// 8 link:{basepath}round8/round8-questions.html[2020]
+8) link:{basepath}round8/round8-questions.html[2020]
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round8/round8-answers.html[2020 Answers]
-// // ====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round8/round8-answers.html[2020 Answers]
+// ====
 
-// 9 link:{basepath}round9/round9-questions.html[Name 4 _]
+9) link:{basepath}round9/round9-questions.html[Snack Time]
 
-// 10 link:{basepath}round10/round10-questions.html[The Final Cut]
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round9/round9-answers.html[Snack Time Answers]
+// ====
 
-// // .Answers
-// // [%collapsible]
-// // ====
-// // link:{basepath}round10/round10-answers.html[The Final Cut Answers]
-// // ====
+10) link:{basepath}round10/round10-questions.html[The Final Cut]
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round10/round10-answers.html[The Final Cut Answers]
+// ====
 
 === Scores
 

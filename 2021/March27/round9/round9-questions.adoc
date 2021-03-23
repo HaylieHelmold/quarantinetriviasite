@@ -1,29 +1,50 @@
-= Name 4 _
+= Snack Time
 
-== Possible Points = 20
+== Possible Points = 10
 
-=== HURRY. Each correct answer is a half point.
+=== What descriptor is missing from these not so original snack packages?
 
+:path: ../resources/images/round5/
 
-1. Name 4 famous Michaels
+1 
 
-2. Name 4 brands of cosemetics
+image:{path}question1.png[500,500]
 
-3. Name 4 countries that begin with M
+2 
 
-4. Name 4 wedding traditions
+image:{path}question2.png[500,500]
 
-5. Name 4 Jim Carrey movies
+3 
 
-6. Name 4 one-hit wonders
+image:{path}question3.png[500,500]
 
-7. Name 4 U.S. State Capitols
+4 
 
-8. Name 4 celebrity couple break ups
+image:{path}question4.png[500,500]
 
-9. Name 4 Poker hands
+5 
 
-10. Name 4 Dances
+image:{path}question5.png[500,500]
+
+6 
+
+image:{path}question6.png[500,500]
+
+7 
+
+image:{path}question7.png[500,500]
+
+8 
+
+image:{path}question8.png[500,500]
+
+9 
+
+image:{path}question9.png[500,500]
+
+10 
+
+image:{path}question10.png[500,500]
 
 
 '''
