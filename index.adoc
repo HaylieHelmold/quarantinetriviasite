@@ -11,40 +11,30 @@
 |===
 | Team 1 | Team 2 |Team 3 | Team 4
 
-| 
-| 
-| 
-| 
+| Bill
+| Bob
+| Tim
+| Mary
+
+| Ann
+| Linda
+| Maria
+| Peggy
+
+| Becky
+| Jean
+| Phil
+| Terry
+
+| Noah
+| Betsy
+| Maureen
+| Mike
 
 | 
 | 
 | 
-| 
-
-| 
-| 
-| 
-| 
-
-| 
-| 
-| 
-| 
-
-| 
-| 
-| 
-| 
-
-| 
-| 
-| 
-| 
-
-|
-|
-| 
-| 
+| Bridget
 
 |===
 
@@ -208,3 +198,5 @@
 '''
 
 === Tie Breaker:
+
+// To the nearest cent, what was the price of Zoom stock at close of the market today?
