@@ -30,7 +30,7 @@ image:{path}question6.jpg[500,500]
 
 image:{path}question7.jpg[500,500]
 
-8 *Star Wars*
+8 *Hotel Transylvania*
 
 image:{path}question8.jpg[500,500]
 
