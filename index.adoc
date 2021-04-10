@@ -19,7 +19,7 @@
 | Ann
 | Linda
 | Maria
-| Peggy
+| Bridget
 
 | Becky
 | Jean
@@ -34,7 +34,7 @@
 | Catherine*
 | Brianna*
 | 
-| Bridget
+| 
 
 |===
 
