@@ -7,43 +7,43 @@
 :path: ../resources/videos/
 
 
-1 
+1 The man talking
 
 video::{path}output1.mp4[500,500]
 
-2
+2 The girl
 
 video::{path}output2.mp4[500,500]
 
-3
+3 The bald guy
 
 video::{path}output3.mp4[500,500]
 
-4
+4 The lemur
 
 video::{path}output4.mp4[500,500]
 
-5
+5 The guy with the bag of wrenches
 
 video::{path}output5.mp4[500,500]
 
-6
+6 The guy (not the dog - although I'll be impressed if you know the real and character name of the dog)
 
 video::{path}output6.mp4[500,500]
 
-7
+7 The main male character of this movie
 
 video::{path}output7.mp4[500,500]
 
-8
+8 The man talking
 
 video::{path}output8.mp4[500,500]
 
-9
+9 The man (also not the dog)
 
 video::{path}output9.mp4[500,500]
 
-10
+10 This one is obvious
 
 video::{path}output10.mp4[500,500]
 
