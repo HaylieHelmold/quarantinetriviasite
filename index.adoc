@@ -94,13 +94,13 @@ link:{basepath}round6/round6-answers.html[Playing the Long Game Answers]
 
 7) link:{basepath}round7/round7-questions.html[Movie Monsters]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
+====
 
-// 8) link:{basepath}round8/round8-questions.html[2020]
+8) link:{basepath}round8/round8-questions.html[2020]
 
 // .Answers
 // [%collapsible]
