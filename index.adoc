@@ -173,10 +173,10 @@ link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
 |5
 
 |Round 7
-|
-|
-|
-|
+|8
+|10
+|6
+|8
 
 |Round 8
 | 
@@ -197,10 +197,10 @@ link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
 |
 
 |*Final*
-|55
-|52
-|48
-|53
+|63
+|62
+|54
+|61
 |===
 
 '''
