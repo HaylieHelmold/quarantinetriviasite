@@ -110,13 +110,13 @@ link:{basepath}round8/round8-answers.html[2020 Answers]
 
 9) link:{basepath}round9/round9-questions.html[Snack Time]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round9/round9-answers.html[Snack Time Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round9/round9-answers.html[Snack Time Answers]
+====
 
-// 10) link:{basepath}round10/round10-questions.html[The Final Cut]
+10) link:{basepath}round10/round10-questions.html[The Final Cut]
 
 // .Answers
 // [%collapsible]
