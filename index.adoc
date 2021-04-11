@@ -155,10 +155,10 @@ link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
 |10
 
 |Round 4
-|
-|
-|
-|
+|5
+|7
+|4
+|7
 
 |Round 5
 |
@@ -197,10 +197,10 @@ link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
 |
 
 |*Final*
-|38
-|32
-|33
-|35
+|43
+|39
+|37
+|42
 |===
 
 '''
