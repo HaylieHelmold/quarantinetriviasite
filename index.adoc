@@ -131,10 +131,10 @@ link:{basepath}round3/round3-answers.html[Name that... Answers]
 | | Team 1 | Team 2 |Team 3 | Team 4
 
 |Tiebreaker
-|
-|
-|
-|
+|110.23
+|71.79
+|211.75
+|89
 
 |Round 1
 |7
@@ -149,10 +149,10 @@ link:{basepath}round3/round3-answers.html[Name that... Answers]
 |18
 
 | Round 3
-|
-|
-|
-|
+|11
+|13
+|7
+|10
 
 |Round 4
 |
@@ -197,9 +197,9 @@ link:{basepath}round3/round3-answers.html[Name that... Answers]
 |
 
 |*Final*
-|27
-|19
-|26
+|38
+|32
+|33
 |25
 |===
 
