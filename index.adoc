@@ -111,11 +111,11 @@ link:{basepath}round9/round9-answers.html[Snack Time Answers]
 
 10) link:{basepath}round10/round10-questions.html[The Final Cut]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round10/round10-answers.html[The Final Cut Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round10/round10-answers.html[The Final Cut Answers]
+====
 
 === Scores
 
