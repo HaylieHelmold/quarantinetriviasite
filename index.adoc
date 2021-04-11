@@ -137,10 +137,10 @@ link:{basepath}round1/round1-answers.html[Monarchies are so 1775 Answers]
 |
 
 |Round 1
-|
-|
-|
-|
+|7
+|7
+|6
+|7
 
 |Round 2   
 |
