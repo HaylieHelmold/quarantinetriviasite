@@ -44,7 +44,7 @@
 
 === Categories
 
-// 1) link:{basepath}round1/round1-questions.html[Monarchies are so 1775]
+1) link:{basepath}round1/round1-questions.html[Monarchies are so 1775]
 
 // .Answers
 // [%collapsible]
@@ -130,6 +130,12 @@
 |===
 | | Team 1 | Team 2 |Team 3 | Team 4
 
+|Tiebreaker
+|
+|
+|
+|
+
 |Round 1
 |
 |
@@ -201,4 +207,4 @@
 
 === Tie Breaker:
 
-// To the nearest cent, what was the price of Zoom stock at close of the market this week?
+To the nearest cent, what was the price of Zoom stock at close of the market this week?
