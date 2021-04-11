@@ -178,10 +178,10 @@ link:{basepath}round9/round9-answers.html[Snack Time Answers]
 |9
 
 |Round 9
-|
-|
-|
-|
+|6
+|6
+|6
+|3
 
 |Round 10
 |
@@ -190,10 +190,10 @@ link:{basepath}round9/round9-answers.html[Snack Time Answers]
 |
 
 |*Final*
-|71
-|71
-|62
-|70
+|77
+|77
+|68
+|73
 |===
 
 '''
