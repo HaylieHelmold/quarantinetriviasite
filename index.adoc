@@ -62,13 +62,13 @@ link:{basepath}round2/round2-answers.html[Happy Birthday! Answers]
 
 3) link:{basepath}round3/round3-questions.html[Name That...]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round3/round3-answers.html[Name that... Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round3/round3-answers.html[Name that... Answers]
+====
 
-// 4) link:{basepath}round4/round4-questions.html[The Final Frontier]
+4) link:{basepath}round4/round4-questions.html[The Final Frontier]
 
 // .Answers
 // [%collapsible]
@@ -143,10 +143,10 @@ link:{basepath}round2/round2-answers.html[Happy Birthday! Answers]
 |7
 
 |Round 2   
-|
-|
-|
-|
+|20
+|12
+|20
+|18
 
 | Round 3
 |
@@ -197,10 +197,10 @@ link:{basepath}round2/round2-answers.html[Happy Birthday! Answers]
 |
 
 |*Final*
-|
-|
-|
-|
+|27
+|19
+|26
+|25
 |===
 
 '''
