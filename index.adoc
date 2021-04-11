@@ -161,10 +161,10 @@ link:{basepath}round5/round5-answers.html[What's the theme of this round? Answer
 |7
 
 |Round 5
-|
-|
-|
-|
+|7
+|7
+|8
+|6
 
 |Round 6
 |
@@ -197,10 +197,10 @@ link:{basepath}round5/round5-answers.html[What's the theme of this round? Answer
 |
 
 |*Final*
-|43
-|39
-|37
-|42
+|50
+|46
+|45
+|48
 |===
 
 '''
