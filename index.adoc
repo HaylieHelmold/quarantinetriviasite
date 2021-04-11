@@ -86,13 +86,13 @@ link:{basepath}round5/round5-answers.html[What's the theme of this round? Answer
 
 6) link:{basepath}round6/round6-questions.html[Playing the Long Game]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round6/round6-answers.html[Playing the Long Game Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round6/round6-answers.html[Playing the Long Game Answers]
+====
 
-// 7) link:{basepath}round7/round7-questions.html[Movie Monsters]
+7) link:{basepath}round7/round7-questions.html[Movie Monsters]
 
 // .Answers
 // [%collapsible]
