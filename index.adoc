@@ -184,16 +184,16 @@ link:{basepath}round10/round10-answers.html[The Final Cut Answers]
 |3
 
 |Round 10
-|
-|
-|
-|
+|16
+|20
+|14
+|16
 
 |*Final*
-|77
-|77
-|68
-|73
+|93
+|97
+|82
+|89
 |===
 
 '''
