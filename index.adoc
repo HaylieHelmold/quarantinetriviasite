@@ -70,13 +70,13 @@ link:{basepath}round3/round3-answers.html[Name that... Answers]
 
 4) link:{basepath}round4/round4-questions.html[The Final Frontier]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
+====
 
-// 5) link:{basepath}round5/round5-questions.html[What's the theme of this round?]
+5) link:{basepath}round5/round5-questions.html[What's the theme of this round?]
 
 // .Answers
 // [%collapsible]
