@@ -179,10 +179,10 @@ link:{basepath}round8/round8-answers.html[2020 Answers]
 |8
 
 |Round 8
-| 
-|
-|
-|
+|8 
+|9
+|8
+|9
 
 |Round 9
 |
@@ -197,10 +197,10 @@ link:{basepath}round8/round8-answers.html[2020 Answers]
 |
 
 |*Final*
-|63
+|71
+|71
 |62
-|54
-|61
+|70
 |===
 
 '''
