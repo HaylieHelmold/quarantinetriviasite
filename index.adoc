@@ -78,13 +78,13 @@ link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
 
 5) link:{basepath}round5/round5-questions.html[What's the theme of this round?]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round5/round5-answers.html[What's the theme of this round? Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round5/round5-answers.html[What's the theme of this round? Answers]
+====
 
-// 6) link:{basepath}round6/round6-questions.html[Playing the Long Game]
+6) link:{basepath}round6/round6-questions.html[Playing the Long Game]
 
 // .Answers
 // [%collapsible]
