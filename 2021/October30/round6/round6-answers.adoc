@@ -1,0 +1,16 @@
+= HQ
+
+Possible Points: 10
+
+Time: 5 mins
+
+1. Amazon - *Seattle*
+2. Kia - *Seoul*
+3. Wells Fargo - *San Francisco*
+4. PetSmart - *Pheonix*
+5. JP Morgan and Chase - *NYC*
+6. Nike - *Beaverton (Portland)*
+7. Disney - *Burbank (LA)*
+8. Dell - *Round Rock (Austin)*
+9. McDonalds - *Chicago*
+10. Nintendo - *Kyoto*

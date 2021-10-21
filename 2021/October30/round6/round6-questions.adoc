@@ -1,0 +1,16 @@
+= HQ
+
+Possible Points: 10
+
+Time: 5 mins
+
+1. Amazon
+2. Kia
+3. Wells Fargo
+4. PetSmart
+5. JP Morgan and Chase
+6. Nike
+7. Disney
+8. Dell
+9. McDonalds
+10. Nintendo

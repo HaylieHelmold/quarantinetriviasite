@@ -1,0 +1,50 @@
+= Duets
+
+:path: ../resources/songs/
+
+Possible Points: 20
+
+Time: 10 mins
+
+Name the 2 Artists singing. I don't need the song name! You will hear both people on the excerpt given.
+
+
+1) 1984 
+
+audio::{path}output1.mp3[options="controls"]
+
+2) 1982
+
+audio::{path}output2.mp3[options="controls"]
+
+3) 2020
+
+audio::{path}output3.mp3[options="controls"]
+
+4) 1982
+
+audio::{path}output4.mp3[options="controls"]
+
+5) 1989
+
+audio::{path}output5.mp3[options="controls"]
+
+6) 2002
+
+audio::{path}output6.mp3[options="controls"]
+
+7) 2007
+
+audio::{path}output7.mp3[options="controls"]
+
+8) 2010
+
+audio::{path}output8.mp3[options="controls"]
+
+9) 1987
+
+audio::{path}output9.mp3[options="controls"]
+
+10) 1967
+
+audio::{path}output10.mp3[options="controls"]

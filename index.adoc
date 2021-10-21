@@ -1,35 +1,35 @@
-= Trivia Week 26
+= Halloween Trivia! 🎃
 
-:basepath: 2021/March27/
+:basepath: 2021/October30/
 
 == Your Lovely Hosts: Mitch & Haylie
 
-=== Possible Points = 130
+=== Possible Points = 90
 
 === Teams
 [%autowidth,stripes=even,]
 |===
 | Team 1 | Team 2 |Team 3 | Team 4
 
-| Bill
-| Bob
-| Tim
-| Mary
+| 
+| 
+| 
+| 
 
-| Ann
-| Linda
-| Maria
-| Bridget
+| 
+| 
+| 
+| 
 
-| Becky
-| Jean
-| Phil
-| Terry
+| 
+| 
+| 
+| 
 
-| Noah
-| Betsy
-| Maureen
-| Mike
+| 
+| 
+| 
+| 
 
 |===
 
@@ -37,85 +37,64 @@
 
 === Categories
 
-1) link:{basepath}round1/round1-questions.html[Monarchies are so 1775]
+1) link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
 
 .Answers
 [%collapsible]
 ====
-link:{basepath}round1/round1-answers.html[Monarchies are so 1775 Answers]
+link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
 ====
 
-2) link:{basepath}round2/round2-questions.html[Happy Birthday!]
+2) link:{basepath}round2/round2-questions.html[Turn it up to 11!]
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round2/round2-answers.html[Happy Birthday! Answers]
-====
-
-3) link:{basepath}round3/round3-questions.html[Name That...]
+3) link:{basepath}round3/round3-questions.html[Duets]
 
 .Answers
 [%collapsible]
 ====
-link:{basepath}round3/round3-answers.html[Name that... Answers]
+link:{basepath}round3/round3-answers.html[Duets Answers]
 ====
 
-4) link:{basepath}round4/round4-questions.html[The Final Frontier]
-
-.Answers
-[%collapsible]
-====
-link:{basepath}round4/round4-answers.html[The Final Frontier Answers]
-====
-
-5) link:{basepath}round5/round5-questions.html[What's the theme of this round?]
+4) link:{basepath}round4/round4-questions.html[SUPERFAN]
 
 .Answers
 [%collapsible]
 ====
-link:{basepath}round5/round5-answers.html[What's the theme of this round? Answers]
+link:{basepath}round4/round4-answers.html[SUPERFAN Answers]
 ====
 
-6) link:{basepath}round6/round6-questions.html[Playing the Long Game]
-
-.Answers
-[%collapsible]
-====
-link:{basepath}round6/round6-answers.html[Playing the Long Game Answers]
-====
-
-7) link:{basepath}round7/round7-questions.html[Movie Monsters]
+5) link:{basepath}round5/round5-questions.html[Scandalous]
 
 .Answers
 [%collapsible]
 ====
-link:{basepath}round7/round7-answers.html[Movie Monsters Answers]
+link:{basepath}round5/round5-answers.html[Scandalous Answers]
 ====
 
-8) link:{basepath}round8/round8-questions.html[2020]
-
-.Answers
-[%collapsible]
-====
-link:{basepath}round8/round8-answers.html[2020 Answers]
-====
-
-9) link:{basepath}round9/round9-questions.html[Snack Time]
+6) link:{basepath}round6/round6-questions.html[HQ]
 
 .Answers
 [%collapsible]
 ====
-link:{basepath}round9/round9-answers.html[Snack Time Answers]
+link:{basepath}round6/round6-answers.html[HQ Answers]
 ====
 
-10) link:{basepath}round10/round10-questions.html[The Final Cut]
+7) link:{basepath}round7/round7-questions.html[Sweet Treats]
 
 .Answers
 [%collapsible]
 ====
-link:{basepath}round10/round10-answers.html[The Final Cut Answers]
+link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
 ====
+
+8) link:{basepath}round8/round8-questions.html[Catchphrase]
+
+.Answers
+[%collapsible]
+====
+link:{basepath}round8/round8-answers.html[Catchphrase Answers]
+====
+
 
 === Scores
 
@@ -124,80 +103,70 @@ link:{basepath}round10/round10-answers.html[The Final Cut Answers]
 | | Team 1 | Team 2 |Team 3 | Team 4
 
 |Tiebreaker
-|110.23
-|71.79
-|211.75
-|89
+|
+|
+|
+|
 
 |Round 1
-|7
-|7
-|6
-|7
+|
+|
+|
+|
 
 |Round 2   
-|20
-|12
-|20
-|18
+|
+|
+|
+|
 
 | Round 3
-|11
-|13
-|7
-|10
+|
+|
+|
+|
 
 |Round 4
-|5
-|7
-|4
-|7
+|
+|
+|
+|
 
 |Round 5
-|7
-|7
-|8
-|6
+|
+|
+|
+|
 
 |Round 6
-|5
-|6
-|3
-|5
+|
+|
+|
+|
 
 |Round 7
-|8
-|10
-|6
-|8
+|
+|
+|
+|
 
 |Round 8
-|8 
-|9
-|8
-|9
+| 
+|
+|
+|
 
-|Round 9
-|6
-|6
-|6
-|3
-
-|Round 10
-|16
-|20
-|14
-|16
+|Costume Points
+| 
+|
+|
+|
 
 |*Final*
-|93
-|97
-|82
-|89
+|
+|
+|
+|
 |===
 
 '''
-
-=== Tie Breaker:
-
-To the nearest cent, what was the price of Zoom stock at close of the market this week?
