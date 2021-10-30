@@ -9,27 +9,31 @@
 === Teams
 [%autowidth,stripes=even,]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4
+| Team 1 | Team 2 |Team 3
 
-| 
-| 
-| 
-| 
+| Tim
+| Mary
+| Patty
 
-| 
-| 
-| 
-| 
+| Linda
+| Terry
+| Jean
 
-| 
-| 
-| 
-| 
+| Bobby
+| Mike
+| Katie
 
-| 
-| 
-| 
-| 
+| Billy
+| Vickie
+| Adam
+
+| Ann
+| Noah
+| Brandon
+
+| Maria
+| Becky
+|
 
 |===
 
@@ -100,16 +104,9 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4
-
-|Tiebreaker
-|
-|
-|
-|
+| | Team 1 | Team 2 |Team 3
 
 |Round 1
-|
 |
 |
 |
@@ -118,10 +115,8 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |
 |
 |
-|
 
 | Round 3
-|
 |
 |
 |
@@ -130,10 +125,8 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |
 |
 |
-|
 
 |Round 5
-|
 |
 |
 |
@@ -142,10 +135,8 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |
 |
 |
-|
 
 |Round 7
-|
 |
 |
 |
@@ -154,16 +145,13 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 | 
 |
 |
-|
 
 |Costume Points
 | 
 |
 |
-|
 
 |*Final*
-|
 |
 |
 |

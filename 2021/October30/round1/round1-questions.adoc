@@ -1,4 +1,4 @@
-= Wecome to the Zoo!
+= Welcome to the Zoo!
 
 Possible Points: 10
 
@@ -7,9 +7,9 @@ Time: 10 mins
 
 1. There are 2 mammals that are known to lay eggs, name one.
 
-2. How long is an elephant pregnant before giving birth? (+/- 1 month)
+2. What color is a polar bear's skin?
 
-3. How many compartments are in a cows stomach?
+3. In 2018 a woman tried to bring an emotional support animal onto an airplane but was denied. What was the animal?
 
 4. A baby goat is called a...?
 

@@ -9,27 +9,31 @@
 === Teams
 [%autowidth,stripes=even,]
 |===
-| Team 1 | Team 2 |Team 3 | Team 4
+| Team 1 | Team 2 |Team 3
 
-| 
-| 
-| 
-| 
+| Tim
+| Mary
+| Patty
 
-| 
-| 
-| 
-| 
+| Linda
+| Terry
+| Jean
 
-| 
-| 
-| 
-| 
+| Bobby
+| Mike
+| Katie
 
-| 
-| 
-| 
-| 
+| Billy
+| Vickie
+| Adam
+
+| Ann
+| Noah
+| Brandon
+
+| Maria
+| Becky
+|
 
 |===
 
@@ -37,79 +41,88 @@
 
 === Categories
 
-1) link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
+1) Welcome to the Zoo
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
-====
+// link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
 
-2) link:{basepath}round2/round2-questions.html[Turn it up to 11!]
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
+// ====
 
-3) link:{basepath}round3/round3-questions.html[Duets]
+2) Turn it up to 11!
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round3/round3-answers.html[Duets Answers]
-====
+// link:{basepath}round2/round2-questions.html[Turn it up to 11!]
 
-4) link:{basepath}round4/round4-questions.html[SUPERFAN]
+3) Duets
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round4/round4-answers.html[SUPERFAN Answers]
-====
+// link:{basepath}round3/round3-questions.html[Duets]
 
-5) link:{basepath}round5/round5-questions.html[Scandalous]
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round3/round3-answers.html[Duets Answers]
+// ====
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round5/round5-answers.html[Scandalous Answers]
-====
+4) SUPERFAN
 
-6) link:{basepath}round6/round6-questions.html[HQ]
+// link:{basepath}round4/round4-questions.html[SUPERFAN]
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round6/round6-answers.html[HQ Answers]
-====
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round4/round4-answers.html[SUPERFAN Answers]
+// ====
 
-7) link:{basepath}round7/round7-questions.html[Sweet Treats]
+5) Scandalous
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
-====
+// link:{basepath}round5/round5-questions.html[Scandalous]
 
-8) link:{basepath}round8/round8-questions.html[Catchphrase]
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round5/round5-answers.html[Scandalous Answers]
+// ====
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round8/round8-answers.html[Catchphrase Answers]
-====
+6) HQ
+
+// link:{basepath}round6/round6-questions.html[HQ]
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round6/round6-answers.html[HQ Answers]
+// ====
+
+7) Sweet Treats
+
+// link:{basepath}round7/round7-questions.html[Sweet Treats]
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
+// ====
+
+8) Catchphrase
+
+//link:{basepath}round8/round8-questions.html[Catchphrase]
+
+// .Answers
+// [%collapsible]
+// ====
+// link:{basepath}round8/round8-answers.html[Catchphrase Answers]
+// ====
 
 
 === Scores
 
 [%autowidth,stripes=even,]
 |===
-| | Team 1 | Team 2 |Team 3 | Team 4
-
-|Tiebreaker
-|
-|
-|
-|
+| | Team 1 | Team 2 |Team 3
 
 |Round 1
-|
 |
 |
 |
@@ -118,10 +131,8 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |
 |
 |
-|
 
 | Round 3
-|
 |
 |
 |
@@ -130,10 +141,8 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |
 |
 |
-|
 
 |Round 5
-|
 |
 |
 |
@@ -142,10 +151,8 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |
 |
 |
-|
 
 |Round 7
-|
 |
 |
 |
@@ -154,16 +161,13 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 | 
 |
 |
-|
 
 |Costume Points
 | 
 |
 |
-|
 
 |*Final*
-|
 |
 |
 |
