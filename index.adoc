@@ -77,15 +77,13 @@ link:{basepath}round5/round5-answers.html[Scandalous Answers]
 
 6) link:{basepath}round6/round6-questions.html[HQ]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round6/round6-answers.html[HQ Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round6/round6-answers.html[HQ Answers]
+====
 
-7) Sweet Treats
-
-// link:{basepath}round7/round7-questions.html[Sweet Treats]
+7) link:{basepath}round7/round7-questions.html[Sweet Treats]
 
 // .Answers
 // [%collapsible]
@@ -131,9 +129,9 @@ link:{basepath}round5/round5-answers.html[Scandalous Answers]
 |9
 
 |Round 5
-|
-|
-|
+|8
+|5
+|5
 
 |Round 6
 |
@@ -156,9 +154,9 @@ link:{basepath}round5/round5-answers.html[Scandalous Answers]
 |6
 
 |*Final*
-|40
-|43.5
-|46
+|48
+|48.5
+|51
 |===
 
 '''
