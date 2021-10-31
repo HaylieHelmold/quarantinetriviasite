@@ -51,9 +51,7 @@ link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
 
 2) link:{basepath}round2/round2-questions.html[Turn it up to 11!]
 
-3) Duets
-
-// link:{basepath}round3/round3-questions.html[Duets]
+3) link:{basepath}round3/round3-questions.html[Duets]
 
 // .Answers
 // [%collapsible]
@@ -119,9 +117,9 @@ link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
 | | Team 1 | Team 2 |Team 3
 
 |Round 1
-|
-|
-|
+|3
+|6.5
+|6
 
 |Round 2   
 |
@@ -164,9 +162,9 @@ link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
 |6
 
 |*Final*
-|6
-|6
-|6
+|9
+|12.5
+|12
 |===
 
 '''
