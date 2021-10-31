@@ -43,7 +43,7 @@
 
 1) Welcome to the Zoo
 
-// link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
+link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
 
 // .Answers
 // [%collapsible]
