@@ -93,11 +93,11 @@ link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
 
 8) link:{basepath}round8/round8-questions.html[Catchphrase]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round8/round8-answers.html[Catchphrase Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round8/round8-answers.html[Catchphrase Answers]
+====
 
 
 === Scores
@@ -137,9 +137,9 @@ link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
 |4
 
 |Round 7
-|
-|
-|
+|3
+|4
+|5
 
 |Round 8
 | 
@@ -152,9 +152,9 @@ link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
 |6
 
 |*Final*
-|54
-|56.5
-|55
+|57
+|60.5
+|60
 |===
 
 '''
