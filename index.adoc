@@ -142,9 +142,9 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |5
 
 |Round 8
-| 
-|
-|
+|10 
+|9
+|10
 
 |Costume Points
 |6 
@@ -152,9 +152,9 @@ link:{basepath}round8/round8-answers.html[Catchphrase Answers]
 |6
 
 |*Final*
-|57
-|60.5
-|60
+|67
+|69.5
+|70
 |===
 
 '''
