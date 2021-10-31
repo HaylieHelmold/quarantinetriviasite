@@ -53,15 +53,13 @@ link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
 
 3) link:{basepath}round3/round3-questions.html[Duets]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round3/round3-answers.html[Duets Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round3/round3-answers.html[Duets Answers]
+====
 
-4) SUPERFAN
-
-// link:{basepath}round4/round4-questions.html[SUPERFAN]
+4) link:{basepath}round4/round4-questions.html[SUPERFAN]
 
 // .Answers
 // [%collapsible]
@@ -122,9 +120,9 @@ link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
 |6
 
 |Round 2   
-|
-|
-|
+|10
+|10
+|10
 
 | Round 3
 |
@@ -162,9 +160,9 @@ link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
 |6
 
 |*Final*
-|9
-|12.5
-|12
+|19
+|22.5
+|22
 |===
 
 '''
