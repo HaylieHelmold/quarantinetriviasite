@@ -61,23 +61,21 @@ link:{basepath}round3/round3-answers.html[Duets Answers]
 
 4) link:{basepath}round4/round4-questions.html[SUPERFAN]
 
-.Answers
-[%collapsible]
-====
-link:{basepath}round4/round4-answers.html[SUPERFAN Answers]
-====
+// .Answers
+// .[%collapsible]
+// .====
+// .link:{basepath}round4/round4-answers.html[SUPERFAN Answers]
+// .====
 
 5) link:{basepath}round5/round5-questions.html[Scandalous]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round5/round5-answers.html[Scandalous Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round5/round5-answers.html[Scandalous Answers]
+====
 
-6) HQ
-
-// link:{basepath}round6/round6-questions.html[HQ]
+6) link:{basepath}round6/round6-questions.html[HQ]
 
 // .Answers
 // [%collapsible]
@@ -128,9 +126,9 @@ link:{basepath}round4/round4-answers.html[SUPERFAN Answers]
 |15
 
 |Round 4
-|
-|
-|
+|9
+|10
+|9
 
 |Round 5
 |
@@ -158,9 +156,9 @@ link:{basepath}round4/round4-answers.html[SUPERFAN Answers]
 |6
 
 |*Final*
-|31
-|33.5
-|37
+|40
+|43.5
+|46
 |===
 
 '''
