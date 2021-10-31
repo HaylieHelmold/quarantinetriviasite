@@ -85,15 +85,13 @@ link:{basepath}round6/round6-answers.html[HQ Answers]
 
 7) link:{basepath}round7/round7-questions.html[Sweet Treats]
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
-// ====
+.Answers
+[%collapsible]
+====
+link:{basepath}round7/round7-answers.html[Sweet Treats Answers]
+====
 
-8) Catchphrase
-
-//link:{basepath}round8/round8-questions.html[Catchphrase]
+8) link:{basepath}round8/round8-questions.html[Catchphrase]
 
 // .Answers
 // [%collapsible]
@@ -134,9 +132,9 @@ link:{basepath}round6/round6-answers.html[HQ Answers]
 |5
 
 |Round 6
-|
-|
-|
+|6
+|8
+|4
 
 |Round 7
 |
@@ -154,9 +152,9 @@ link:{basepath}round6/round6-answers.html[HQ Answers]
 |6
 
 |*Final*
-|48
-|48.5
-|51
+|54
+|56.5
+|55
 |===
 
 '''
