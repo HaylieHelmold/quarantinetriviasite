@@ -41,19 +41,15 @@
 
 === Categories
 
-1) Welcome to the Zoo
+1) link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
 
-link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
+.Answers
+[%collapsible]
+====
+link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
+====
 
-// .Answers
-// [%collapsible]
-// ====
-// link:{basepath}round1/round1-answers.html[Welcome to the Zoo Answers]
-// ====
-
-2) Turn it up to 11!
-
-// link:{basepath}round2/round2-questions.html[Turn it up to 11!]
+2) link:{basepath}round2/round2-questions.html[Turn it up to 11!]
 
 3) Duets
 
@@ -163,14 +159,14 @@ link:{basepath}round1/round1-questions.html[Welcome to the Zoo]
 |
 
 |Costume Points
-| 
-|
-|
+|6 
+|6
+|6
 
 |*Final*
-|
-|
-|
+|6
+|6
+|6
 |===
 
 '''
